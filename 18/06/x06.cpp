@@ -15,7 +15,6 @@ void x06Test(){
         printf("%d ", Sq.data[i]);
     }
 
-123
 
 
 }
