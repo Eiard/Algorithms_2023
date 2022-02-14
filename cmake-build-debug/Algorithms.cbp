@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Algorithms"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Computer/Code/C++/Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithms">
+				<Option output="D:/Computer/Code/C++/Algorithms/cmake-build-debug/Algorithms.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Computer/Code/C++/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithms"/>
+					<CompileFile command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithms/fast">
+				<Option output="D:/Computer/Code/C++/Algorithms/cmake-build-debug/Algorithms.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Computer/Code/C++/Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\computer\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithms/fast"/>
+					<CompileFile command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Computer/Code/C++/Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Computer/Code/C++/Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Computer/MinGW/bin/mingw32-make.exe -f &quot;D:/Computer/Code/C++/Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/01/x01.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/01/x01.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/02/x02.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/02/x02.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/03/x03.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/03/x03.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/04/x04.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/04/x04.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/05/x05.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/05/x05.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/06/x06.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/06/x06.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/07/x07.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/07/x07.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/08/x08.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/08/x08.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/09/x09.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/09/x09.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/10/x10.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/10/x10.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/11/x11.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/11/x11.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/12/x12.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/12/x12.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/13/x13.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/13/x13.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/14/x14.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/14/x14.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/Sqlist.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/Test18.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/18/Test18.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/Def.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/Def.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/main.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
