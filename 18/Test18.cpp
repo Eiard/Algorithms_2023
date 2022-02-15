@@ -46,9 +46,11 @@ void Test18(){
         x08Test();
     }
     else if(Enter == 9){
+        // 有序表递增尽快查找x(二分查找) 没有则插入x,有则将x与后一个元素对换
         x09Test();
     }
     else if(Enter == 10){
+        // 一维数组R中元素循环左移p个位置 即原先顺序为X0 X1 .... Xn-1  变换为 Xp Xp+1 .... Xn-1 X0 X1 ... Xp-1
         x10Test();
     }
     else if(Enter == 11){
