@@ -12,8 +12,11 @@ ElemType x13(Sqlist &T){
 }
 
 void x13Test(){
-    ElemType T[8] = {5, 3, 3, 3, 5, 5, 5, 5};
+    ElemType T[8] = {-2, 1, 2, 3, 5, 6, -5, 9};
     Sqlist Sq;
     Sq.data = T;
     Sq.length = sizeof(T) / sizeof(ElemType);
+
+    x13(Sq);
+
 }
