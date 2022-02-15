@@ -54,12 +54,15 @@ void Test18(){
         x10Test();
     }
     else if(Enter == 11){
+        // 找两序列综合后的中位数 时间复杂度O(n) 空间复杂度O(1)
         x11Test();
     }
     else if(Enter == 12){
+        // 找出主元素,出现次数最多,且出现次数超过总元素个数的一半
         x12Test();
     }
     else if(Enter == 13){
+        // 找出最小正整数
         x13Test();
     }
     else if(Enter == 14){

@@ -4,6 +4,16 @@
 
 #include "x13.h"
 
-void x13Test(){
+ElemType x13(Sqlist &T){
 
+
+
+
+}
+
+void x13Test(){
+    ElemType T[8] = {5, 3, 3, 3, 5, 5, 5, 5};
+    Sqlist Sq;
+    Sq.data = T;
+    Sq.length = sizeof(T) / sizeof(ElemType);
 }

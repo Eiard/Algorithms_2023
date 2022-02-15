@@ -7,7 +7,7 @@
 
 #include "../Sqlist.h"
 
-ElemType x13();
+ElemType x13(Sqlist &T);
 
 void x13Test();
 
