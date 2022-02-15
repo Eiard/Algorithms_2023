@@ -7,8 +7,10 @@
 ElemType x06(Sqlist &T) {
     int j = 0;
     for (int i = 0; i < T.length; i++) {
+        // 与后一个相同则跳过
         if(T.data[i] == T.data[i+1]){
         }else{
+            // 不相同则转移
             T.data[j] = T.data[i];
             j++;
         }

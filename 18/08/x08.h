@@ -7,7 +7,7 @@
 
 #include "../Sqlist.h"
 
-ElemType x08();
+ElemType x08(Sqlist &T, int m);
 
 void x08Test();
 

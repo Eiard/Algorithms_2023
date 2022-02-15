@@ -18,6 +18,7 @@ ElemType x01(Sqlist &T) {
                 Tag = i;
             }
         }
+        // 找到最小元素然后替换 Tag为最小元素的下标
         T.data[Tag] = T.data[T.length - 1];
         T.length--;
 

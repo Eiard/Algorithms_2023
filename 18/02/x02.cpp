@@ -6,6 +6,7 @@
 
 // 转置
 ElemType x02(Sqlist &T) {
+    // 两边实现对换
     for (int i = 0; i < T.length / 2; i++) {
         Swap(T.data[i], T.data[T.length - i - 1]);
     }

@@ -8,7 +8,7 @@
 ElemType x03(Sqlist &T, ElemType Del) {
     int j = 0;
     for (int i = 0; i < T.length; i++) {
-        // 碰到相等的不管,碰到不相等的就把它放到新的a[j]数组中
+        // 碰到相等的跳过,碰到不相等的就把它放到新的a[j]数组中
         if (T.data[i] == Del) {
         } else {
             T.data[j] = T.data[i];

@@ -6,7 +6,7 @@
 #define ALGORITHMS_DEF_H
 
 #include <cstdio>
-
+#include <malloc.h>
 #define OK 0
 #define ERROR -1
 typedef int ElemType;
