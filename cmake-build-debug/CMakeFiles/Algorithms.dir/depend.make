@@ -90,6 +90,25 @@ CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: ../18/Test18.cpp
 CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: ../18/Test18.h
 CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: ../Def.h
 
+CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj: ../40/01/x01.cpp
+CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj: ../40/01/x01.h
+CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj: ../40/LinkList.h
+CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj: ../Def.h
+
+CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: ../40/02/x02.cpp
+CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: ../40/02/x02.h
+
+CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj: ../40/LinkList.cpp
+CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj: ../40/LinkList.h
+CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj: ../Def.h
+
+CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/01/x01.h
+CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/02/x02.h
+CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/LinkList.h
+CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/Test40.cpp
+CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/Test40.h
+CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../Def.h
+
 CMakeFiles/Algorithms.dir/Def.cpp.obj: ../Def.cpp
 CMakeFiles/Algorithms.dir/Def.cpp.obj: ../Def.h
 
@@ -109,6 +128,7 @@ CMakeFiles/Algorithms.dir/main.cpp.obj: ../18/13/x13.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../18/14/x14.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../18/Sqlist.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../18/Test18.h
+CMakeFiles/Algorithms.dir/main.cpp.obj: ../40/Test40.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../Def.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../main.cpp
 
