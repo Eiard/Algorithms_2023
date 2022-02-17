@@ -7,11 +7,13 @@
 
 #include "../Def.h"
 
-struct LinkList {
+typedef struct LNode {
     ElemType data;
-    ElemType *Pointer;
-};
+    struct LNode *next;
+} LNode, *LinkList;  //LinkList常代表单链表的头指针  LNode常代表区块
 
+// 带头结点的链表创建
+void Init_Head(LinkList L);
 
 
 

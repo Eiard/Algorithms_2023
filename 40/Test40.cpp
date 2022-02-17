@@ -12,7 +12,7 @@ void Test40(){
     scanf("%d",&Enter);
 
     if(Enter == 1){
-
+        // 不带头结点的递归删除
         x40_01Test();
     }
     else if(Enter == 2){
