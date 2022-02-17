@@ -6,6 +6,9 @@
 
 // 删除所有值为x的节点 (带头结点)
 ElemType x40_02(LinkList &L,ElemType x){
+    if(L == nullptr){
+        return ERROR;
+    }
 
 
     return OK;
