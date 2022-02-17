@@ -7,9 +7,9 @@
 
 #include "../Sqlist.h"
 
-ElemType x05(Sqlist &T,int s,int t);
+ElemType x18_05(Sqlist &T,int s,int t);
 
-void x05Test();
+void x18_05Test();
 
 
 

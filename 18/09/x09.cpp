@@ -4,7 +4,7 @@
 
 #include "x09.h"
 
-ElemType x09(Sqlist &T, int x) {
+ElemType x18_09(Sqlist &T, int x) {
     int low = 0, high = T.length - 1, mid;
     while (low <= high) {  // 二分查找
         mid = (low + high) / 2;
@@ -24,7 +24,7 @@ ElemType x09(Sqlist &T, int x) {
     return OK;
 }
 
-void x09Test() {
+void x18_09Test() {
     ElemType T[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     Sqlist Sq;
     Sq.data = T;
@@ -39,7 +39,7 @@ void x09Test() {
     printf("\nPlease Enter the x = ");
     scanf("%d", &x);
 
-    x09(Sq, x);
+    x18_09(Sq, x);
 
     printf("\nAfter change is ");
     for (int i = 0; i < Sq.length; i++) {

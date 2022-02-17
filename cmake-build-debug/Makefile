@@ -547,6 +547,114 @@ Algorithms/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/18/Test18.cpp.s
 .PHONY : 18/Test18.cpp.s
 
+40/01/x01.obj: 40/01/x01.cpp.obj
+
+.PHONY : 40/01/x01.obj
+
+# target to build an object file
+40/01/x01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj
+.PHONY : 40/01/x01.cpp.obj
+
+40/01/x01.i: 40/01/x01.cpp.i
+
+.PHONY : 40/01/x01.i
+
+# target to preprocess a source file
+40/01/x01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/01/x01.cpp.i
+.PHONY : 40/01/x01.cpp.i
+
+40/01/x01.s: 40/01/x01.cpp.s
+
+.PHONY : 40/01/x01.s
+
+# target to generate assembly for a file
+40/01/x01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/01/x01.cpp.s
+.PHONY : 40/01/x01.cpp.s
+
+40/02/x02.obj: 40/02/x02.cpp.obj
+
+.PHONY : 40/02/x02.obj
+
+# target to build an object file
+40/02/x02.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj
+.PHONY : 40/02/x02.cpp.obj
+
+40/02/x02.i: 40/02/x02.cpp.i
+
+.PHONY : 40/02/x02.i
+
+# target to preprocess a source file
+40/02/x02.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/02/x02.cpp.i
+.PHONY : 40/02/x02.cpp.i
+
+40/02/x02.s: 40/02/x02.cpp.s
+
+.PHONY : 40/02/x02.s
+
+# target to generate assembly for a file
+40/02/x02.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/02/x02.cpp.s
+.PHONY : 40/02/x02.cpp.s
+
+40/LinkList.obj: 40/LinkList.cpp.obj
+
+.PHONY : 40/LinkList.obj
+
+# target to build an object file
+40/LinkList.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj
+.PHONY : 40/LinkList.cpp.obj
+
+40/LinkList.i: 40/LinkList.cpp.i
+
+.PHONY : 40/LinkList.i
+
+# target to preprocess a source file
+40/LinkList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/LinkList.cpp.i
+.PHONY : 40/LinkList.cpp.i
+
+40/LinkList.s: 40/LinkList.cpp.s
+
+.PHONY : 40/LinkList.s
+
+# target to generate assembly for a file
+40/LinkList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/LinkList.cpp.s
+.PHONY : 40/LinkList.cpp.s
+
+40/Test40.obj: 40/Test40.cpp.obj
+
+.PHONY : 40/Test40.obj
+
+# target to build an object file
+40/Test40.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/Test40.cpp.obj
+.PHONY : 40/Test40.cpp.obj
+
+40/Test40.i: 40/Test40.cpp.i
+
+.PHONY : 40/Test40.i
+
+# target to preprocess a source file
+40/Test40.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/Test40.cpp.i
+.PHONY : 40/Test40.cpp.i
+
+40/Test40.s: 40/Test40.cpp.s
+
+.PHONY : 40/Test40.s
+
+# target to generate assembly for a file
+40/Test40.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/Test40.cpp.s
+.PHONY : 40/Test40.cpp.s
+
 Def.obj: Def.cpp.obj
 
 .PHONY : Def.obj
@@ -655,6 +763,18 @@ help:
 	@echo ... 18/Test18.obj
 	@echo ... 18/Test18.i
 	@echo ... 18/Test18.s
+	@echo ... 40/01/x01.obj
+	@echo ... 40/01/x01.i
+	@echo ... 40/01/x01.s
+	@echo ... 40/02/x02.obj
+	@echo ... 40/02/x02.i
+	@echo ... 40/02/x02.s
+	@echo ... 40/LinkList.obj
+	@echo ... 40/LinkList.i
+	@echo ... 40/LinkList.s
+	@echo ... 40/Test40.obj
+	@echo ... 40/Test40.i
+	@echo ... 40/Test40.s
 	@echo ... Def.obj
 	@echo ... Def.i
 	@echo ... Def.s

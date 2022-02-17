@@ -4,7 +4,7 @@
 
 #include "x07.h"
 
-ElemType x07(Sqlist &T, Sqlist &T1) {
+ElemType x18_07(Sqlist &T, Sqlist &T1) {
     int length = T.length + T1.length;
     // 创建一个连续的动态数组
     ElemType *a = (int *) malloc(length * sizeof(ElemType));
@@ -37,7 +37,7 @@ ElemType x07(Sqlist &T, Sqlist &T1) {
 }
 
 
-void x07Test() {
+void x18_07Test() {
     ElemType T[10] = {1, 2, 2, 5, 5, 6, 7, 8, 9, 10};
     Sqlist Sq;
     Sq.data = T;
@@ -58,7 +58,7 @@ void x07Test() {
         printf("%d ", Sq1.data[i]);
     }
 
-    x07(Sq, Sq1);
+    x18_07(Sq, Sq1);
 
     printf("\nAfter change is ");
     for (int i = 0; i < Sq.length; i++) {

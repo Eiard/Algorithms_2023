@@ -7,9 +7,9 @@
 
 #include "../Sqlist.h"
 
-ElemType x04(Sqlist &T,int s,int t);
+ElemType x18_04(Sqlist &T,int s,int t);
 
-void x04Test();
+void x18_04Test();
 
 
 #endif //ALGORITHMS_X04_H

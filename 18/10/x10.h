@@ -7,9 +7,9 @@
 
 #include "../Sqlist.h"
 
-ElemType x10();
+ElemType x18_10(Sqlist &T, int min, int max);
 
-void x10Test();
+void x18_10Test();
 
 
 #endif //ALGORITHMS_X10_H

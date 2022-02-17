@@ -4,7 +4,7 @@
 
 #include "x06.h"
 
-ElemType x06(Sqlist &T) {
+ElemType x18_06(Sqlist &T) {
     int j = 0;
     for (int i = 0; i < T.length; i++) {
         // 与后一个相同则跳过
@@ -20,7 +20,7 @@ ElemType x06(Sqlist &T) {
 }
 
 
-void x06Test() {
+void x18_06Test() {
     ElemType T[10] = {1, 2, 2, 5, 5, 6, 7, 8, 9, 10};
     Sqlist Sq;
     Sq.data = T;
@@ -31,7 +31,7 @@ void x06Test() {
         printf("%d ", Sq.data[i]);
     }
 
-    x06(Sq);
+    x18_06(Sq);
 
     printf("\nAfter change is ");
     for (int i = 0; i < Sq.length; i++) {

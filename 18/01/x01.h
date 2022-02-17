@@ -7,9 +7,9 @@
 
 #include "../Sqlist.h"
 
-ElemType x01(Sqlist &T);
+ElemType x18_01(Sqlist &T);
 
-void x01Test();
+void x18_01Test();
 
 
 #endif //ALGORITHMS_X01_H

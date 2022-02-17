@@ -4,7 +4,7 @@
 
 #include "x12.h"
 
-ElemType x12(Sqlist &T) {
+ElemType x18_12(Sqlist &T) {
     int Count = 0;
     int i, c;
     c = T.data[0];
@@ -37,14 +37,14 @@ ElemType x12(Sqlist &T) {
     else return ERROR;
 }
 
-void x12Test() {
+void x18_12Test() {
     ElemType T[8] = {5, 3, 3, 3, 5, 5, 5, 5};
     Sqlist Sq;
     Sq.data = T;
     Sq.length = sizeof(T) / sizeof(ElemType);
 
-    x12(Sq);
+    x18_12(Sq);
 
-    printf("\nThe main numb is %d",x12(Sq));
+    printf("\nThe main numb is %d",x18_12(Sq));
 
 }

@@ -7,9 +7,11 @@
 
 #include "../Sqlist.h"
 
-ElemType x13(Sqlist &T);
+ElemType x18_13(Sqlist &T);
 
-void x13Test();
+ElemType x18_13_max(Sqlist &T);
+
+void x18_13Test();
 
 
 #endif //ALGORITHMS_X13_H

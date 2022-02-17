@@ -5,7 +5,7 @@
 #include "x02.h"
 
 // 转置
-ElemType x02(Sqlist &T) {
+ElemType x18_02(Sqlist &T) {
     // 两边实现对换
     for (int i = 0; i < T.length / 2; i++) {
         Swap(T.data[i], T.data[T.length - i - 1]);
@@ -13,7 +13,7 @@ ElemType x02(Sqlist &T) {
     return OK;
 }
 
-void x02Test() {
+void x18_02Test() {
     ElemType T[10] = {5, 9, 2, 3, 4, 19, 1, 12, 14, 13};
     Sqlist Sq;
     Sq.data = T;
@@ -23,7 +23,7 @@ void x02Test() {
         printf("%d ", Sq.data[i]);
     }
 
-    x02(Sq);
+    x18_02(Sq);
 
     printf("\nAfter change is ");
     for (int i = 0; i < Sq.length; i++) {

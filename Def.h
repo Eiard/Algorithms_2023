@@ -8,6 +8,7 @@
 #include <cstdio>
 #include <malloc.h>
 #include <string.h>
+#include <math.h>
 
 #define OK 0
 #define ERROR -1
@@ -16,7 +17,8 @@ typedef int ElemType;
 #define Asc ++
 #define Dsc --
 
-#define _for( i, min, Max, Opera) for(i = min;i < Max;i Opera)
+#define _for(i, min, Max, Opera) for(i = min;i < Max;i Opera)
+
 
 void Swap(ElemType &a, ElemType &b);
 

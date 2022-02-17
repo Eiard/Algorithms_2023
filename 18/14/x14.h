@@ -7,9 +7,14 @@
 
 #include "../Sqlist.h"
 
-ElemType x14();
+// 计算距离
+ElemType Distance(ElemType a, ElemType b, ElemType c);
 
-void x14Test();
+bool xls_min(int a, int b, int c);
+
+ElemType x18_14(Sqlist &T1,Sqlist &T2,Sqlist &T3);
+
+void x18_14Test();
 
 
 #endif //ALGORITHMS_X14_H

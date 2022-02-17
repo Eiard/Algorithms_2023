@@ -4,7 +4,7 @@
 
 #include "x08.h"
 
-ElemType x08(Sqlist &T, int m) {
+ElemType x18_08(Sqlist &T, int m) {
     if (m >= T.length) {
         return ERROR;
     }
@@ -24,7 +24,7 @@ ElemType x08(Sqlist &T, int m) {
 }
 
 
-void x08Test() {
+void x18_08Test() {
     ElemType T[10] = {1, 2, 2, 5, 5, 6, 7, 8, 9, 10};
     Sqlist Sq;
     Sq.data = T;
@@ -39,7 +39,7 @@ void x08Test() {
     printf("\n Enter prior m = ");
     scanf("%d", &m);
 
-    x08(Sq, m);
+    x18_08(Sq, m);
 
     printf("\nAfter change is ");
     for (int i = 0; i < Sq.length; i++) {

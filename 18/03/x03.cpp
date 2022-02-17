@@ -5,7 +5,7 @@
 #include "x03.h"
 
 
-ElemType x03(Sqlist &T, ElemType Del) {
+ElemType x18_03(Sqlist &T, ElemType Del) {
     int j = 0;
     for (int i = 0; i < T.length; i++) {
         // 碰到相等的跳过,碰到不相等的就把它放到新的a[j]数组中
@@ -20,7 +20,7 @@ ElemType x03(Sqlist &T, ElemType Del) {
     return OK;
 }
 
-void x03Test() {
+void x18_03Test() {
     ElemType T[10] = {5, 9, 2, 3, 4, 19, 3, 12, 14, 3};
     Sqlist Sq;
     Sq.data = T;
@@ -31,7 +31,7 @@ void x03Test() {
         printf("%d ", Sq.data[i]);
     }
 
-    x03(Sq, 3);
+    x18_03(Sq, 3);
 
     printf("\nAfter change is ");
     for (int i = 0; i < Sq.length; i++) {

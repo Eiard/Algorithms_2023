@@ -4,7 +4,7 @@
 
 #include "x05.h"
 
-ElemType x05(Sqlist &T, int s, int t) {
+ElemType x18_05(Sqlist &T, int s, int t) {
     if (s >= t) {
         printf("s is not lower then t !\n");
         return ERROR;
@@ -33,7 +33,7 @@ ElemType x05(Sqlist &T, int s, int t) {
 }
 
 
-void x05Test(){
+void x18_05Test() {
     ElemType T[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     Sqlist Sq;
     Sq.data = T;
@@ -48,7 +48,7 @@ void x05Test(){
     printf("\nEnter s and t --> ");
     scanf("%d %d", &s, &t);
 
-    x05(Sq, s, t);
+    x18_05(Sq, s, t);
 
     printf("\nAfter change is ");
     for (int i = 0; i < Sq.length; i++) {

@@ -5,7 +5,7 @@
 #include "x01.h"
 
 // 删除最小元素并且将最后一个元素替换
-ElemType x01(Sqlist &T) {
+ElemType x18_01(Sqlist &T) {
     if (T.data == NULL) {
         return ERROR;
     } else {
@@ -32,7 +32,7 @@ ElemType x01(Sqlist &T) {
     }
 }
 
-void x01Test() {
+void x18_01Test() {
     ElemType T[10] = {5, 9, 2, 3, 4, 19, 1, 12, 14, 13};
     Sqlist Sq;
     Sq.data = T;
@@ -43,7 +43,7 @@ void x01Test() {
         printf("%d ", T[i]);
     }
 
-    int min = x01(Sq);
+    int min = x18_01(Sq);
 
     if (min == ERROR) {
         printf("\nArray is NULL!");
