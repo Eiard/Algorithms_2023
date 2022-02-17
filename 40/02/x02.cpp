@@ -7,6 +7,7 @@
 ElemType x40_02(){
 
 
+    return OK;
 
 }
 

@@ -18,8 +18,8 @@ int main() {
     if(Enter == 18){
         Test18();
     }
-    else if(Enter == 35){
-
+    else if(Enter == 40){
+        Test40();
     }
 
 

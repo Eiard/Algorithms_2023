@@ -8,7 +8,10 @@
 #include "../LinkList.h"
 
 
-ElemType x40_01();
+ElemType x40_01(LinkList &L,ElemType x);
+
+// 带头结点的遍历
+ElemType Traverse(LinkList L);
 
 void x40_01Test();
 
