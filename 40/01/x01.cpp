@@ -5,7 +5,7 @@
 #include "x01.h"
 
 
-void x40_01(){
+ElemType x40_01(){
 
 
 

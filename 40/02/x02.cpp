@@ -3,3 +3,13 @@
 //
 
 #include "x02.h"
+
+ElemType x40_02(){
+
+
+
+}
+
+void x40_02Test(){
+
+}
