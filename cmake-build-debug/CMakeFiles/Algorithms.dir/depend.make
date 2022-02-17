@@ -97,6 +97,8 @@ CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj: ../Def.h
 
 CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: ../40/02/x02.cpp
 CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: ../40/02/x02.h
+CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: ../40/LinkList.h
+CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: ../Def.h
 
 CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj: ../40/LinkList.cpp
 CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj: ../40/LinkList.h

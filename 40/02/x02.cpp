@@ -4,7 +4,8 @@
 
 #include "x02.h"
 
-ElemType x40_02(){
+// 删除所有值为x的节点 (带头结点)
+ElemType x40_02(LinkList &L,ElemType x){
 
 
     return OK;
