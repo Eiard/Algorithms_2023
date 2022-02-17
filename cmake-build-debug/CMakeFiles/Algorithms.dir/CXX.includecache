@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/Computer/Code/C++/Algorithms/18/12/x12.cpp
-x12.h
-D:/Computer/Code/C++/Algorithms/18/12/x12.h
+D:/Computer/Code/C++/Algorithms/18/13/x13.cpp
+x13.h
+D:/Computer/Code/C++/Algorithms/18/13/x13.h
 
-D:/Computer/Code/C++/Algorithms/18/12/x12.h
+D:/Computer/Code/C++/Algorithms/18/13/x13.h
 ../Sqlist.h
 D:/Computer/Code/C++/Algorithms/18/Sqlist.h
 
@@ -22,5 +22,7 @@ D:/Computer/Code/C++/Algorithms/Def.h
 cstdio
 -
 malloc.h
+-
+string.h
 -
 
