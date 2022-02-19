@@ -20,12 +20,12 @@ void Test40(){
         x40_02Test();
     }
     else if(Enter == 3){
-        //
-
+        // 链表倒序输出
+        x40_03Test();
     }
     else if(Enter == 4){
-
-
+        // 删除最小值
+        x40_04Test();
     }
     else if(Enter == 5){
 

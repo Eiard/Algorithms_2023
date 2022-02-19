@@ -17,7 +17,7 @@ typedef int ElemType;
 #define Asc ++
 #define Dsc --
 
-#define _for(i, min, Max, Opera) for(i = min;i < Max;i Opera)
+#define _for(i, Begin, End, Opera) for(i = Begin;i < End;i Opera)
 
 
 void Swap(ElemType &a, ElemType &b);

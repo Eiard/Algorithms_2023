@@ -18,9 +18,10 @@ ElemType x40_03(LinkList &L) {
         p = p->next;
     }
 
-    for (int j = i; j >= 0; j Dsc) {
-        printf("%d",a[j]);  // 倒序输出
+    for (int j = i - 1; j >= 0; (j Dsc)) {
+        printf(" %d", a[j]);  // 倒序输出
     }
+
 
     return OK;
 }
