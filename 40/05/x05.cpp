@@ -18,9 +18,9 @@ ElemType x40_05(LinkList &L) {
     // 从第二个结点开始头插法
     while (p) {
         q = p;  // 保留要移动的结点
+        p = p->next;
         q->next = L->next;
         L->next = q;
-        p = p->next;
     }
 
     return OK;
@@ -34,6 +34,8 @@ void x40_05Test() {
     ListInsertPrior_LNode(L, 1, 2);
     ListInsertPrior_LNode(L, 1, 2);
     ListInsertPrior_LNode(L, 1, 3);
+    ListInsertPrior_LNode(L, 1, 1);
+    ListInsertPrior_LNode(L, 1, 2);
     printf(" The origin is ");
     ListTraverse_LNode(L);
 
