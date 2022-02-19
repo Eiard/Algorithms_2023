@@ -13,8 +13,14 @@ typedef struct LNode {
 } LNode, *LinkList;  //LinkList常代表单链表的头指针  LNode常代表区块
 
 // 带头结点的链表创建
-void Init_Head(LinkList L);
+ElemType Init_Head(LinkList &L);
 
+ElemType ListInsertPrior_LNode(LinkList &L, int i, ElemType e);  // 将数插入到第i个结点
 
+ElemType ListDelete_LNode(LinkList &L, int i, ElemType &e);  // 删除第i个结点
+
+ElemType GetElem_LNode(LinkList L, int i, ElemType &e);  // 获取第i个的值
+
+ElemType ListTraverse_LNode(LinkList &L);  // 遍历
 
 #endif //ALGORITHMS_LINKLIST_H

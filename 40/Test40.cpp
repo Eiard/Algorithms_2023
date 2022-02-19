@@ -16,11 +16,11 @@ void Test40(){
         x40_01Test();
     }
     else if(Enter == 2){
-
-
+        // 删除所有值为x的结点(带头结点)
+        x40_02Test();
     }
     else if(Enter == 3){
-
+        //
 
     }
     else if(Enter == 4){
