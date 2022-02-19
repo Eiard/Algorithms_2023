@@ -22,7 +22,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/40/03/x03.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/04/x04.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/05/x05.cpp.obj"
-  "CMakeFiles/Algorithms.dir/40/06/06.cpp.obj"
+  "CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/08/x08.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/09/x09.cpp.obj"

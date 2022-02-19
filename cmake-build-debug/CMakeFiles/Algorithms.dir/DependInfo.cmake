@@ -24,7 +24,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Computer/Code/C++/Algorithms/40/03/x03.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/03/x03.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/40/04/x04.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/04/x04.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/40/05/x05.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/05/x05.cpp.obj"
-  "D:/Computer/Code/C++/Algorithms/40/06/06.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/06/06.cpp.obj"
+  "D:/Computer/Code/C++/Algorithms/40/06/x06.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/40/07/x07.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/40/08/x08.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/08/x08.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/40/09/x09.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/09/x09.cpp.obj"

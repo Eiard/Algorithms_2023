@@ -28,8 +28,8 @@ void Test40(){
         x40_04Test();
     }
     else if(Enter == 5){
-
-
+        // 就地逆置
+        x40_05Test();
     }
     else if(Enter == 6){
 

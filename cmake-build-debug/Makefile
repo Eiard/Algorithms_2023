@@ -682,32 +682,32 @@ Algorithms/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/05/x05.cpp.s
 .PHONY : 40/05/x05.cpp.s
 
-40/06/06.obj: 40/06/06.cpp.obj
+40/06/x06.obj: 40/06/x06.cpp.obj
 
-.PHONY : 40/06/06.obj
+.PHONY : 40/06/x06.obj
 
 # target to build an object file
-40/06/06.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/06/06.cpp.obj
-.PHONY : 40/06/06.cpp.obj
+40/06/x06.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj
+.PHONY : 40/06/x06.cpp.obj
 
-40/06/06.i: 40/06/06.cpp.i
+40/06/x06.i: 40/06/x06.cpp.i
 
-.PHONY : 40/06/06.i
+.PHONY : 40/06/x06.i
 
 # target to preprocess a source file
-40/06/06.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/06/06.cpp.i
-.PHONY : 40/06/06.cpp.i
+40/06/x06.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/06/x06.cpp.i
+.PHONY : 40/06/x06.cpp.i
 
-40/06/06.s: 40/06/06.cpp.s
+40/06/x06.s: 40/06/x06.cpp.s
 
-.PHONY : 40/06/06.s
+.PHONY : 40/06/x06.s
 
 # target to generate assembly for a file
-40/06/06.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/06/06.cpp.s
-.PHONY : 40/06/06.cpp.s
+40/06/x06.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/06/x06.cpp.s
+.PHONY : 40/06/x06.cpp.s
 
 40/07/x07.obj: 40/07/x07.cpp.obj
 
@@ -1399,9 +1399,9 @@ help:
 	@echo ... 40/05/x05.obj
 	@echo ... 40/05/x05.i
 	@echo ... 40/05/x05.s
-	@echo ... 40/06/06.obj
-	@echo ... 40/06/06.i
-	@echo ... 40/06/06.s
+	@echo ... 40/06/x06.obj
+	@echo ... 40/06/x06.i
+	@echo ... 40/06/x06.s
 	@echo ... 40/07/x07.obj
 	@echo ... 40/07/x07.i
 	@echo ... 40/07/x07.s

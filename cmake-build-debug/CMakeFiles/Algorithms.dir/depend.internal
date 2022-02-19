@@ -100,6 +100,87 @@ CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj
  D:/Computer/Code/C++/Algorithms/40/02/x02.h
  D:/Computer/Code/C++/Algorithms/40/LinkList.h
  D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/40/03/x03.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/03/x03.cpp
+ D:/Computer/Code/C++/Algorithms/40/03/x03.h
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/40/04/x04.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/04/x04.cpp
+ D:/Computer/Code/C++/Algorithms/40/04/x04.h
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/40/05/x05.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/05/x05.cpp
+ D:/Computer/Code/C++/Algorithms/40/05/x05.h
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/40/06/06.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/06/06.cpp
+ D:/Computer/Code/C++/Algorithms/40/06/06.h
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/07/x07.cpp
+ D:/Computer/Code/C++/Algorithms/40/07/x07.h
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/40/08/x08.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/08/x08.cpp
+ D:/Computer/Code/C++/Algorithms/40/08/x08.h
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/40/09/x09.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/09/x09.cpp
+ D:/Computer/Code/C++/Algorithms/40/09/x09.h
+CMakeFiles/Algorithms.dir/40/10/x10.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/10/x10.cpp
+ D:/Computer/Code/C++/Algorithms/40/10/x10.h
+CMakeFiles/Algorithms.dir/40/11/x11.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/11/x11.cpp
+ D:/Computer/Code/C++/Algorithms/40/11/x11.h
+CMakeFiles/Algorithms.dir/40/12/x12.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/12/x12.cpp
+ D:/Computer/Code/C++/Algorithms/40/12/x12.h
+CMakeFiles/Algorithms.dir/40/13/x13.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/13/x13.cpp
+ D:/Computer/Code/C++/Algorithms/40/13/x13.h
+CMakeFiles/Algorithms.dir/40/14/x14.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/14/x14.cpp
+ D:/Computer/Code/C++/Algorithms/40/14/x14.h
+CMakeFiles/Algorithms.dir/40/15/x15.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/15/x15.cpp
+ D:/Computer/Code/C++/Algorithms/40/15/x15.h
+CMakeFiles/Algorithms.dir/40/16/x16.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/16/x16.cpp
+ D:/Computer/Code/C++/Algorithms/40/16/x16.h
+CMakeFiles/Algorithms.dir/40/17/x17.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/17/x17.cpp
+ D:/Computer/Code/C++/Algorithms/40/17/x17.h
+CMakeFiles/Algorithms.dir/40/18/x18.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/18/x18.cpp
+ D:/Computer/Code/C++/Algorithms/40/18/x18.h
+CMakeFiles/Algorithms.dir/40/19/x19.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/19/x19.cpp
+ D:/Computer/Code/C++/Algorithms/40/19/x19.h
+CMakeFiles/Algorithms.dir/40/20/x20.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/20/x20.cpp
+ D:/Computer/Code/C++/Algorithms/40/20/x20.h
+CMakeFiles/Algorithms.dir/40/21/x21.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/21/x21.cpp
+ D:/Computer/Code/C++/Algorithms/40/21/x21.h
+CMakeFiles/Algorithms.dir/40/22/x22.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/22/x22.cpp
+ D:/Computer/Code/C++/Algorithms/40/22/x22.h
+CMakeFiles/Algorithms.dir/40/23/x23.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/23/x23.cpp
+ D:/Computer/Code/C++/Algorithms/40/23/x23.h
+CMakeFiles/Algorithms.dir/40/24/x24.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/24/x24.cpp
+ D:/Computer/Code/C++/Algorithms/40/24/x24.h
+CMakeFiles/Algorithms.dir/40/25/x25.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/25/x25.cpp
+ D:/Computer/Code/C++/Algorithms/40/25/x25.h
 CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj
  D:/Computer/Code/C++/Algorithms/40/LinkList.cpp
  D:/Computer/Code/C++/Algorithms/40/LinkList.h
@@ -107,6 +188,8 @@ CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj
 CMakeFiles/Algorithms.dir/40/Test40.cpp.obj
  D:/Computer/Code/C++/Algorithms/40/01/x01.h
  D:/Computer/Code/C++/Algorithms/40/02/x02.h
+ D:/Computer/Code/C++/Algorithms/40/03/x03.h
+ D:/Computer/Code/C++/Algorithms/40/04/x04.h
  D:/Computer/Code/C++/Algorithms/40/LinkList.h
  D:/Computer/Code/C++/Algorithms/40/Test40.cpp
  D:/Computer/Code/C++/Algorithms/40/Test40.h

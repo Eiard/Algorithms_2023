@@ -6,7 +6,7 @@
 #define ALGORITHMS_X05_H
 #include "../LinkList.h"
 
-ElemType x40_5(LinkList &L);
+ElemType x40_05(LinkList &L);
 
 void x40_05Test();
 #endif //ALGORITHMS_X05_H
