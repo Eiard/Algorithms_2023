@@ -3,3 +3,27 @@
 //
 
 #include "x12.h"
+
+ElemType x40_12(LinkList &L){
+
+    return OK;
+}
+
+void x40_12Test(){
+    LinkList L;
+    Init_Head(L);  // 初始化链表
+
+    ListInsertPrior_LNode(L, 1, 1);
+    ListInsertPrior_LNode(L, 1, 2);
+    ListInsertPrior_LNode(L, 1, 2);
+    ListInsertPrior_LNode(L, 1, 3);
+    ListInsertPrior_LNode(L, 1, 1);
+    ListInsertPrior_LNode(L, 1, 2);
+    printf(" The origin is ");
+    ListTraverse_LNode(L);
+
+
+
+    printf(" After change is ");
+    ListTraverse_LNode(L);
+}
