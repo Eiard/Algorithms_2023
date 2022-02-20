@@ -7,7 +7,12 @@
 // L a1,b1,a2,b2,a3,b3 ....
 // 拆分为 LA a1,a2,a3,a4 ...  LB b1,b2,b3,b4
 ElemType x40_11(LinkList &L) {
+    int Length = Length_LNode(L);  // 统计链表长度
 
+    ElemType *a, *b;
+
+    a = (ElemType *) malloc(sizeof(ElemType) * Length / 2);
+    b = (ElemType *) malloc(sizeof(ElemType) * Length / 2);
 
     return OK;
 }
