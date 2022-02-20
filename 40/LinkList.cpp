@@ -50,6 +50,31 @@ ElemType ListInsertPrior_LNode(LinkList &L, int i, ElemType e) {
     return OK;
 }
 
+// 插入到第i个节点(带头结点)
+ElemType ListInsertPrior_LNode_Pointer(LinkList &L, int i, LNode* e) {
+    if (i < 1) {
+        return ERROR;
+    }
+    LNode *p = L;  //指针p指向当前扫描到的节点(临时指针)  开头指头结点
+    int j = 0;  //当前p指向的是第几个节点
+    while (p != NULL && j < i - 1) {  //j<i-1: 先找第i-1个节点是否存在
+        p = p->next;
+        j++;
+    }
+
+    if (p == NULL) {  //如果第i-1个节点 p == NULL 则说明 i-1个节点不存在
+        return ERROR;
+    }
+    //如果第i-1个节点存在 p! = NULL
+
+    if (e == NULL) {  //内存分配失败
+        return ERROR;
+    }
+    e->next = p->next;  //让此时新区块 指向 p原先的下一个区块地址
+    p->next = e;  //让原先的p 指向 新区块
+    return OK;
+}
+
 // 删除第i个节点(带头结点)
 ElemType ListDelete_LNode(LinkList &L, int i, ElemType &e) {
     LNode *p = L;

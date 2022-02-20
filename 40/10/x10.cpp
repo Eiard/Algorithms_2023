@@ -4,15 +4,30 @@
 
 #include "x10.h"
 
-ElemType x40_10(LinkList &L){
+// 将L分解为LA(存放奇数下标) LB(存放偶数下标)
+ElemType x40_10(LinkList &L, LinkList &LA, LinkList &LB) {
+    int i = 0;
+    LNode *p = L->next;
+
+    while (p) {
+        if ((i + 1) % 2 == 1) {
+            ListInsertPrior_LNode_Pointer(LA, i / 2 + 1, p);
+        } else {
+            ListInsertPrior_LNode_Pointer(LB, i / 2 + 1, p);
+        }
+        i++;
+        p = p->next;
+    }
 
     return OK;
 }
 
-void x40_10Test(){
+void x40_10Test() {
     LinkList L;
     Init_Head(L);  // 初始化链表
-
+    LinkList LA, LB;
+    Init_Head(LA);  // 初始化链表
+    Init_Head(LB);  // 初始化链表
     ListInsertPrior_LNode(L, 1, 1);
     ListInsertPrior_LNode(L, 1, 2);
     ListInsertPrior_LNode(L, 1, 2);
@@ -22,8 +37,11 @@ void x40_10Test(){
     printf(" The origin is ");
     ListTraverse_LNode(L);
 
+    x40_10(L, LA, LB);
 
+    printf(" The a is ");
+    ListTraverse_LNode(LA);
 
-    printf(" After change is ");
-    ListTraverse_LNode(L);
+    printf(" The b is ");
+    ListTraverse_LNode(LB);
 }

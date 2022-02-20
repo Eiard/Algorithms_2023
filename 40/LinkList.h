@@ -25,4 +25,6 @@ ElemType ListTraverse_LNode(LinkList &L);  // 遍历
 
 ElemType Length_LNode(LinkList L);
 
+ElemType ListInsertPrior_LNode_Pointer(LinkList &L, int i, LNode* e);
+
 #endif //ALGORITHMS_LINKLIST_H
