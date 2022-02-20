@@ -4,14 +4,18 @@
 
 #include "x11.h"
 
-ElemType x40_11(LinkList &L){
+ElemType x40_11(LinkList &L, LinkList &LA, LinkList &LB) {
 
     return OK;
 }
 
-void x40_11Test(){
+void x40_11Test() {
     LinkList L;
     Init_Head(L);  // 初始化链表
+    LinkList LA;
+    Init_Head(LA);  // 初始化链表
+    LinkList LB;
+    Init_Head(LB);  // 初始化链表
 
     ListInsertPrior_LNode(L, 1, 1);
     ListInsertPrior_LNode(L, 1, 2);
