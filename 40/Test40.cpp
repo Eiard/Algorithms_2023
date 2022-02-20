@@ -32,24 +32,24 @@ void Test40(){
         x40_05Test();
     }
     else if(Enter == 6){
-
-
+        // 链表元素排序
+        x40_06Test();
     }
     else if(Enter == 7){
-
-
+        // 所有结点无序,且删除两个值之间的数(若存在)
+        x40_07Test();
     }
     else if(Enter == 8){
-
-
+        // 所有结点无序,且删除两个值之间的数(若存在)
+        x40_08Test();
     }
     else if(Enter == 9){
-
-
+        // 所有结点无序,且删除两个值之间的数(若存在)
+        x40_09Test();
     }
     else if(Enter == 10){
-
-
+        // 所有结点无序,且删除两个值之间的数(若存在)
+        x40_010Test();
     }
     else if(Enter == 11){
 

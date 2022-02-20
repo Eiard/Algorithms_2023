@@ -3,3 +3,12 @@
 //
 
 #include "x08.h"
+
+ElemType x40_08(LinkList &L){
+
+    return OK;
+}
+
+void x40_08Test(){
+
+}

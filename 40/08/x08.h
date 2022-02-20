@@ -7,8 +7,8 @@
 
 #include "../LinkList.h"
 
-ElemType x40_04(LinkList &L);
+ElemType x40_08(LinkList &L);
 
-void x40_04Test();
+void x40_08Test();
 
 #endif //ALGORITHMS_X08_H

@@ -3,3 +3,13 @@
 //
 
 #include "x09.h"
+
+
+ElemType x40_09(LinkList &L){
+
+    return OK;
+}
+
+void x40_09Test(){
+
+}
