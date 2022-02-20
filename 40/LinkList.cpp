@@ -5,7 +5,7 @@
 #include "LinkList.h"
 
 // 链表创建(带头结点)
-ElemType Init_Head(LinkList &L){
+ElemType Init_Head(LinkList &L) {
     L = (LinkList) malloc(sizeof(LNode));  //头结点地址(地址)
     if (L == nullptr) return ERROR;
     L->next = nullptr;
@@ -93,7 +93,7 @@ ElemType ListTraverse_LNode(LinkList &L) {
 
 // 遍历链表(带头结点)
 ElemType Length_LNode(LinkList L) {
-    if (L == nullptr)return ERROR;
+    if (L == NULL)return ERROR;
     int i = 0;
     LinkList P = L->next;
     while (P) {
