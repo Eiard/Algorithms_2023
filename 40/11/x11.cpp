@@ -14,6 +14,29 @@ ElemType x40_11(LinkList &L) {
     a = (ElemType *) malloc(sizeof(ElemType) * Length / 2);
     b = (ElemType *) malloc(sizeof(ElemType) * Length / 2);
 
+    int i = 0;
+
+    LNode *p = L->next;
+    for (; i < Length; i++) {
+        if (i % 2 == 0) {
+            a[i / 2] = p->data;
+        } else if (i % 2 == 1) {
+            b[Length / 2 - 1 - i / 2] = p->data;
+        }
+        p = p->next;
+    }
+
+    printf("\n A is ");
+    _for(i, 0, Length / 2, Asc) {
+        printf("%d", a[i]);
+    }
+
+    printf("\n B is ");
+    _for(i, 0, Length / 2, Asc) {
+        printf("%d", b[i]);
+    }
+
+
     return OK;
 }
 
@@ -33,6 +56,4 @@ void x40_11Test() {
 
     x40_11(L);
 
-    printf(" After change is ");
-    ListTraverse_LNode(L);
 }
