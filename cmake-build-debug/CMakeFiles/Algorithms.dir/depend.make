@@ -117,6 +117,8 @@ CMakeFiles/Algorithms.dir/40/05/x05.cpp.obj: ../Def.h
 
 CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj: ../40/06/x06.cpp
 CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj: ../40/06/x06.h
+CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj: ../40/LinkList.h
+CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj: ../Def.h
 
 CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj: ../40/07/x07.cpp
 CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj: ../40/07/x07.h

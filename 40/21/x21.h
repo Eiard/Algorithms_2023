@@ -5,4 +5,11 @@
 #ifndef ALGORITHMS_X21_H
 #define ALGORITHMS_X21_H
 
+#include "../LinkList.h"
+
+
+ElemType x40_21(LinkList &L);
+
+void x40_21Test();
+
 #endif //ALGORITHMS_X21_H

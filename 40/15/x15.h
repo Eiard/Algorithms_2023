@@ -5,4 +5,13 @@
 #ifndef ALGORITHMS_X15_H
 #define ALGORITHMS_X15_H
 
+#include "../LinkList.h"
+
+
+ElemType x40_15(LinkList &L);
+
+void x40_15Test();
+
+
+
 #endif //ALGORITHMS_X15_H
