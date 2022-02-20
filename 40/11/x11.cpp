@@ -4,7 +4,10 @@
 
 #include "x11.h"
 
-ElemType x40_11(LinkList &L, LinkList &LA, LinkList &LB) {
+// L a1,b1,a2,b2,a3,b3 ....
+// 拆分为 LA a1,a2,a3,a4 ...  LB b1,b2,b3,b4
+ElemType x40_11(LinkList &L) {
+
 
     return OK;
 }
@@ -12,10 +15,7 @@ ElemType x40_11(LinkList &L, LinkList &LA, LinkList &LB) {
 void x40_11Test() {
     LinkList L;
     Init_Head(L);  // 初始化链表
-    LinkList LA;
-    Init_Head(LA);  // 初始化链表
-    LinkList LB;
-    Init_Head(LB);  // 初始化链表
+
 
     ListInsertPrior_LNode(L, 1, 1);
     ListInsertPrior_LNode(L, 1, 2);
@@ -26,7 +26,7 @@ void x40_11Test() {
     printf(" The origin is ");
     ListTraverse_LNode(L);
 
-
+    x40_11(L);
 
     printf(" After change is ");
     ListTraverse_LNode(L);
