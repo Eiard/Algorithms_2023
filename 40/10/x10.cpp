@@ -8,16 +8,19 @@
 ElemType x40_10(LinkList &L, LinkList &LA, LinkList &LB) {
     int i = 0;
     LNode *p = L->next;
+    LNode *q;
 
     while (p) {
+        q = p;
+        p = p->next;
         if ((i + 1) % 2 == 1) {
-            ListInsertPrior_LNode_Pointer(LA, i / 2 + 1, p);
+            ListInsertPrior_LNode_Pointer(LA, i / 2 + 1, q);
         } else {
-            ListInsertPrior_LNode_Pointer(LB, i / 2 + 1, p);
+            ListInsertPrior_LNode_Pointer(LB, i / 2 + 1, q);
         }
         i++;
-        p = p->next;
     }
+    L->next = NULL;
 
     return OK;
 }
