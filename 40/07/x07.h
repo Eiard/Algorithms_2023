@@ -7,7 +7,7 @@
 
 #include "../LinkList.h"
 
-ElemType x40_07(LinkList &L);
+ElemType x40_07(LinkList &L,ElemType min,ElemType max);
 
 void x40_07Test();
 
