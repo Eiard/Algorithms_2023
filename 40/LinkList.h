@@ -23,4 +23,6 @@ ElemType GetElem_LNode(LinkList L, int i, ElemType &e);  // 获取第i个的值
 
 ElemType ListTraverse_LNode(LinkList &L);  // 遍历
 
+ElemType Length_LNode(LinkList L);
+
 #endif //ALGORITHMS_LINKLIST_H

@@ -90,3 +90,16 @@ ElemType ListTraverse_LNode(LinkList &L) {
     printf("\n");
     return OK;
 }
+
+// 遍历链表(带头结点)
+ElemType Length_LNode(LinkList L) {
+    if (L == nullptr)return ERROR;
+    int i = 0;
+    LinkList P = L->next;
+    while (P) {
+        i++;
+        P = P->next;
+    }
+    printf("\n");
+    return i;
+}

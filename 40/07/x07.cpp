@@ -11,9 +11,11 @@ ElemType x40_07(LinkList &L, ElemType min, ElemType max) {
         if (p->data > min && p->data < max){  // 删除p
             q->next = p->next;
             free(p);
-
+            p = q->next;
+        }else{
+            q = q->next;
+            p = q->next;
         }
-
     }
 
     return OK;
