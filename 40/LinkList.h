@@ -36,4 +36,14 @@ typedef struct DLNode {
 // 带头结点的链表创建
 ElemType Init_Head(DLinkList &L);
 
+// P40 20 题 非循环双向链表 访问频度域
+typedef struct DL20Node {
+    ElemType data;
+    struct DL20Node *next;  //后驱
+    struct DL20Node *pred;  // 前驱
+    int freq;
+} DL20Node, *D20LinkList;  //LinkList常代表单链表的头指针  LNode常代表区块
+
+
 #endif //ALGORITHMS_LINKLIST_H
+

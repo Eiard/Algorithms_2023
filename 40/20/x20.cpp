@@ -4,26 +4,64 @@
 
 #include "x20.h"
 
-ElemType x40_20(LinkList &L){
+D20LinkList x40_20(D20LinkList &L, ElemType x) {
+    DL20Node *p = L->next, *q;
+    while (p && p->data != x) {
+        p = p->next;
+    }
+    if (!p) {
+        exit(0);
+    } else {
+        p->freq++;
+        if (p->pred == L || p->pred->freq > p->freq)
+            return p;
+        if (p->next != nullptr)p->next->pred = p->pred;
+        p->pred->next = p->next;
+        q = p->pred;
+        while (q != L && q->freq <= p->freq) {
+            q = q->pred;
+        }
+        p->next = q->next;
+        if (q->next != nullptr) {
+            q->next->pred = p;
+        }
+        p->pred = q;
+        q->next = p;
+    }
 
     return OK;
 }
 
-void x40_20Test(){
-    LinkList L;
-    Init_Head(L);  // 初始化链表
+void x40_20Test() {
+    D20LinkList D;
 
-    ListInsertPrior_LNode(L, 1, 1);
-    ListInsertPrior_LNode(L, 1, 2);
-    ListInsertPrior_LNode(L, 1, 2);
-    ListInsertPrior_LNode(L, 1, 3);
-    ListInsertPrior_LNode(L, 1, 1);
-    ListInsertPrior_LNode(L, 1, 2);
-    printf(" The origin is ");
-    ListTraverse_LNode(L);
+    D20LinkList D1 = (D20LinkList) malloc(sizeof(DL20Node));
+    D20LinkList D2 = (D20LinkList) malloc(sizeof(DL20Node));
+    D20LinkList D3 = (D20LinkList) malloc(sizeof(DL20Node));
+    D20LinkList D4 = (D20LinkList) malloc(sizeof(DL20Node));
+
+    D1->data = 1;
+    D2->data = 2;
+    D3->data = 3;
+    D4->data = 4;
+
+    D1->freq = 0;
+    D2->freq = 0;
+    D3->freq = 0;
+    D4->freq = 0;
+
+    D->next = D1;
+    D1->pred = D;
+    D1->next = D2;
+    D2->pred = D1;
+    D2->next = D3;
+    D3->pred = D2;
+    D3->next = D4;
+    D4->pred = D3;
 
 
 
-    printf(" After change is ");
-    ListTraverse_LNode(L);
+
+    x40_20(D, 1);
+
 }
