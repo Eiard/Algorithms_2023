@@ -5,8 +5,24 @@
 #include "x14.h"
 
 ElemType x40_14(LinkList &LA, LinkList &LB, LinkList &LC) {
-
-
+    LNode *p = LA->next, *q = LB->next, *r, *s;
+    LC = (LinkList) malloc(sizeof(LNode));
+    r = LC;
+    while (p != nullptr && q != nullptr) {
+        if (p->data < q->data)
+            p = p->next;
+        else if (p->data > q->data)
+            q = q->next;
+        else {
+            s = (LNode *) malloc(sizeof(LNode));
+            s->data = p->data;
+            r->next = s;
+            r = s;
+            p = p->next;
+            q = q->next;
+        }
+    }
+    r->next = nullptr;
 
     return OK;
 }
@@ -28,7 +44,6 @@ void x40_14Test() {
 
 
     LinkList LC;
-    Init_Head(LC);  // 初始化链表
 
     printf(" The origin A is ");
     ListTraverse_LNode(LA);

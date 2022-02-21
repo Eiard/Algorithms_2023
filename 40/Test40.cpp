@@ -54,7 +54,7 @@ void Test40() {
         // 利用LA和LB的公共元素产生链表LC
         x40_14Test();
     } else if (Enter == 15) {
-        //
+        // 链表A与B为两个集合,编制函数求A与B的交集并存放于A中
         x40_15Test();
     } else if (Enter == 16) {
         //
