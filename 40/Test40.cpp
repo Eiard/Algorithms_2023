@@ -56,7 +56,7 @@ void Test40(){
         x40_11Test();
     }
     else if(Enter == 12){
-        //
+        // 在有序表中 删除相同的元素
         x40_12Test();
     }
     else if(Enter == 13){
