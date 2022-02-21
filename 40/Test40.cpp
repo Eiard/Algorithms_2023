@@ -57,7 +57,7 @@ void Test40() {
         // 链表A与B为两个集合,编制函数求A与B的交集并存放于A中
         x40_15Test();
     } else if (Enter == 16) {
-        //
+        // 判断B是否是A的子序列
         x40_16Test();
     } else if (Enter == 17) {
         //

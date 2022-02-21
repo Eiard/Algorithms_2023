@@ -4,26 +4,35 @@
 
 #include "x16.h"
 
-ElemType x40_16(LinkList &L){
+ElemType x40_16(LinkList &LA, LinkList &LB) {
 
     return OK;
 }
 
-void x40_16Test(){
-    LinkList L;
-    Init_Head(L);  // 初始化链表
+void x40_16Test() {
+    LinkList LA;
+    Init_Head(LA);  // 初始化链表
 
-    ListInsertPrior_LNode(L, 1, 1);
-    ListInsertPrior_LNode(L, 1, 2);
-    ListInsertPrior_LNode(L, 1, 2);
-    ListInsertPrior_LNode(L, 1, 3);
-    ListInsertPrior_LNode(L, 1, 1);
-    ListInsertPrior_LNode(L, 1, 2);
-    printf(" The origin is ");
-    ListTraverse_LNode(L);
+    ListInsertPrior_LNode(LA, 1, 1);
+    ListInsertPrior_LNode(LA, 1, 2);
+    ListInsertPrior_LNode(LA, 1, 2);
+    ListInsertPrior_LNode(LA, 1, 3);
+    ListInsertPrior_LNode(LA, 1, 1);
+    ListInsertPrior_LNode(LA, 1, 2);
 
+    LinkList LB;
+    Init_Head(LB);  // 初始化链表
 
+    ListInsertPrior_LNode(LB, 1, 3);
+    ListInsertPrior_LNode(LB, 1, 1);
 
-    printf(" After change is ");
-    ListTraverse_LNode(L);
+    printf(" The origin LA is ");
+    ListTraverse_LNode(LA);
+
+    if (x40_16(LA, LB)) {
+        printf("The B is part of A");
+    }else{
+        printf("The B is not part of A");
+    }
+
 }
