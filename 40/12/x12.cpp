@@ -43,6 +43,7 @@ void x40_12Test() {
     printf(" The origin is ");
     ListTraverse_LNode(L);
 
+    x40_12(L);
 
     printf(" After change is ");
     ListTraverse_LNode(L);
