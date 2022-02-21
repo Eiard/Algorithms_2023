@@ -52,16 +52,15 @@ void x40_20Test() {
 
     D->next = D1;
     D1->pred = D;
+
     D1->next = D2;
     D2->pred = D1;
+
     D2->next = D3;
     D3->pred = D2;
+
     D3->next = D4;
     D4->pred = D3;
 
-
-
-
     x40_20(D, 1);
-
 }
