@@ -5,7 +5,36 @@
 #include "x15.h"
 
 ElemType x40_15(LinkList &LA, LinkList &LB) {
-
+    LNode *pa = LA->next;
+    LNode *pb = LB->next;
+    LNode *pc = LA;
+    LNode *u;
+    while (pa && pb) {
+        if (pa->data == pb->data) {
+            pc->next = pa;
+            pc = pa;
+            pa = pa->next;
+            u = pb;
+            pb = pb->next;
+            free(u);
+        } else if (pa ->data <pb->data){
+            u = pa;
+            pa = pa->next;
+            free(u);
+        }
+    }
+    while (pa){
+        u = pa;
+        pa = pa->next;
+        free(u);
+    }
+    while (pb){
+        u = pb;
+        pb=pb->next;
+        free(u);
+    }
+    pc->next = nullptr;
+    free(LB);
 
     return OK;
 }
