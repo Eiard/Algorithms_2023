@@ -48,8 +48,8 @@ void x40_15Test() {
     ListInsertPrior_LNode(LA, 1, 3);
     ListInsertPrior_LNode(LA, 1, 1);
     ListInsertPrior_LNode(LB, 1, 6);
-    ListInsertPrior_LNode(LB, 1, 5);
-    ListInsertPrior_LNode(LB, 1, 2);
+    ListInsertPrior_LNode(LB, 1, 3);
+    ListInsertPrior_LNode(LB, 1, 1);
     printf(" The origin LA is ");
     ListTraverse_LNode(LA);
     printf(" The origin LB is ");
