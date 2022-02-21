@@ -128,3 +128,4 @@ ElemType Length_LNode(LinkList L) {
     printf("\n");
     return i;
 }
+

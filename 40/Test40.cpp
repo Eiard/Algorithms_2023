@@ -60,10 +60,10 @@ void Test40() {
         // 判断B是否是A的子序列
         x40_16Test();
     } else if (Enter == 17) {
-        //
+        // 无头结点 循环双向链表
         x40_17Test();
     } else if (Enter == 18) {
-        //
+        // 
         x40_18Test();
     } else if (Enter == 19) {
         //

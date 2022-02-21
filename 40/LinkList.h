@@ -27,4 +27,13 @@ ElemType Length_LNode(LinkList L);
 
 ElemType ListInsertPrior_LNode_Pointer(LinkList &L, int i, LNode* e);
 
+typedef struct DLNode {
+    ElemType data;
+    struct DLNode *next;  //后驱
+    struct DLNode *pre;  // 前驱
+} DLNode, *DLinkList;  //LinkList常代表单链表的头指针  LNode常代表区块
+
+// 带头结点的链表创建
+ElemType Init_Head(DLinkList &L);
+
 #endif //ALGORITHMS_LINKLIST_H
