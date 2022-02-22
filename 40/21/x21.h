@@ -8,7 +8,7 @@
 #include "../LinkList.h"
 
 
-ElemType x40_21(LinkList &L);
+LNode* x40_21(LinkList &L);
 
 void x40_21Test();
 

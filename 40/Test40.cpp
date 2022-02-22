@@ -69,13 +69,13 @@ void Test40() {
         // 循环单链表,每次循环查找一个最小结点,删除并输出,最后释放
         x40_19Test();
     } else if (Enter == 20) {
-        //
+        // Locate(L,x)
         x40_20Test();
     } else if (Enter == 21) {
-        //
+        // 判断是否有环
         x40_21Test();
     } else if (Enter == 22) {
-        //
+        // 2009统考真题
         x40_22Test();
     } else if (Enter == 23) {
         //

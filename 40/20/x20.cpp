@@ -9,7 +9,7 @@ D20LinkList x40_20(D20LinkList &L, ElemType x) {
     while (p && p->data != x) {
         p = p->next;
     }
-    if (!p) {
+    if (!p) {  // 不存在值为x的结点
         exit(0);
     } else {
         p->freq++;
