@@ -47,6 +47,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Computer/Code/C++/Algorithms/40/LinkList.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/40/Test40.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/40/Test40.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/70/03/x03.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj"
+  "D:/Computer/Code/C++/Algorithms/70/04/x04.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj"
+  "D:/Computer/Code/C++/Algorithms/70/05/x05.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/70/Stack.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/70/Stack.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/70/Test70.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/70/Test70.cpp.obj"
   "D:/Computer/Code/C++/Algorithms/Def.cpp" "D:/Computer/Code/C++/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/Def.cpp.obj"

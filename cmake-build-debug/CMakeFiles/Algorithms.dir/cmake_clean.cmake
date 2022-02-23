@@ -45,6 +45,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/Test40.cpp.obj"
   "CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj"
+  "CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj"
+  "CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj"
   "CMakeFiles/Algorithms.dir/70/Stack.cpp.obj"
   "CMakeFiles/Algorithms.dir/70/Test70.cpp.obj"
   "CMakeFiles/Algorithms.dir/Def.cpp.obj"

@@ -1303,6 +1303,60 @@ Algorithms/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/03/x03.cpp.s
 .PHONY : 70/03/x03.cpp.s
 
+70/04/x04.obj: 70/04/x04.cpp.obj
+
+.PHONY : 70/04/x04.obj
+
+# target to build an object file
+70/04/x04.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj
+.PHONY : 70/04/x04.cpp.obj
+
+70/04/x04.i: 70/04/x04.cpp.i
+
+.PHONY : 70/04/x04.i
+
+# target to preprocess a source file
+70/04/x04.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/04/x04.cpp.i
+.PHONY : 70/04/x04.cpp.i
+
+70/04/x04.s: 70/04/x04.cpp.s
+
+.PHONY : 70/04/x04.s
+
+# target to generate assembly for a file
+70/04/x04.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/04/x04.cpp.s
+.PHONY : 70/04/x04.cpp.s
+
+70/05/x05.obj: 70/05/x05.cpp.obj
+
+.PHONY : 70/05/x05.obj
+
+# target to build an object file
+70/05/x05.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj
+.PHONY : 70/05/x05.cpp.obj
+
+70/05/x05.i: 70/05/x05.cpp.i
+
+.PHONY : 70/05/x05.i
+
+# target to preprocess a source file
+70/05/x05.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/05/x05.cpp.i
+.PHONY : 70/05/x05.cpp.i
+
+70/05/x05.s: 70/05/x05.cpp.s
+
+.PHONY : 70/05/x05.s
+
+# target to generate assembly for a file
+70/05/x05.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/05/x05.cpp.s
+.PHONY : 70/05/x05.cpp.s
+
 70/Stack.obj: 70/Stack.cpp.obj
 
 .PHONY : 70/Stack.obj
@@ -1549,6 +1603,12 @@ help:
 	@echo ... 70/03/x03.obj
 	@echo ... 70/03/x03.i
 	@echo ... 70/03/x03.s
+	@echo ... 70/04/x04.obj
+	@echo ... 70/04/x04.i
+	@echo ... 70/04/x04.s
+	@echo ... 70/05/x05.obj
+	@echo ... 70/05/x05.i
+	@echo ... 70/05/x05.s
 	@echo ... 70/Stack.obj
 	@echo ... 70/Stack.i
 	@echo ... 70/Stack.s

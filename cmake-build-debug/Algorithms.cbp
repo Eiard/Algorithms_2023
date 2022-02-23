@@ -341,6 +341,18 @@
 		<Unit filename="D:/Computer/Code/C++/Algorithms/70/03/x03.h">
 			<Option target="Algorithms"/>
 		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/70/04/x04.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/70/04/x04.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/70/05/x05.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/70/05/x05.h">
+			<Option target="Algorithms"/>
+		</Unit>
 		<Unit filename="D:/Computer/Code/C++/Algorithms/70/Stack.cpp">
 			<Option target="Algorithms"/>
 		</Unit>
