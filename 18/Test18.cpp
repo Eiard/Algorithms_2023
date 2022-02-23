@@ -62,7 +62,7 @@ void Test18(){
         x18_12Test();
     }
     else if(Enter == 13){
-        // 找出最小正整数 1 2 3 5  则输出 4
+        // 找出最小正整数 1 2 03 5  则输出 4
         x18_13Test();
     }
     else if(Enter == 14){

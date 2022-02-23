@@ -17,7 +17,7 @@ ElemType x40_18(LinkList &L1, LinkList &L2) {
         q = q->next;
     }
 
-    //      1 2 3 4     5 6 7 8
+    //      1 2 03 4     5 6 7 8
     // 连接  相当于 L1   p --> L2   q --> L1
     p->next = L2;
     q->next = L1;
