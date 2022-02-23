@@ -249,6 +249,21 @@ CMakeFiles/Algorithms.dir/40/Test40.cpp.obj
  D:/Computer/Code/C++/Algorithms/40/Test40.cpp
  D:/Computer/Code/C++/Algorithms/40/Test40.h
  D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj
+ D:/Computer/Code/C++/Algorithms/70/03/x03.cpp
+ D:/Computer/Code/C++/Algorithms/70/03/x03.h
+ D:/Computer/Code/C++/Algorithms/70/Stack.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/70/Stack.cpp.obj
+ D:/Computer/Code/C++/Algorithms/70/Stack.cpp
+ D:/Computer/Code/C++/Algorithms/70/Stack.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj
+ D:/Computer/Code/C++/Algorithms/70/03/x03.h
+ D:/Computer/Code/C++/Algorithms/70/Stack.h
+ D:/Computer/Code/C++/Algorithms/70/Test70.cpp
+ D:/Computer/Code/C++/Algorithms/70/Test70.h
+ D:/Computer/Code/C++/Algorithms/Def.h
 CMakeFiles/Algorithms.dir/Def.cpp.obj
  D:/Computer/Code/C++/Algorithms/Def.cpp
  D:/Computer/Code/C++/Algorithms/Def.h
@@ -282,5 +297,6 @@ CMakeFiles/Algorithms.dir/main.cpp.obj
  D:/Computer/Code/C++/Algorithms/40/25/x25.h
  D:/Computer/Code/C++/Algorithms/40/LinkList.h
  D:/Computer/Code/C++/Algorithms/40/Test40.h
+ D:/Computer/Code/C++/Algorithms/70/Test70.h
  D:/Computer/Code/C++/Algorithms/Def.h
  D:/Computer/Code/C++/Algorithms/main.cpp

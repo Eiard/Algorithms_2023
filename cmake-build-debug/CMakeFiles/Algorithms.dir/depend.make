@@ -249,6 +249,21 @@ CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/Test40.cpp
 CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/Test40.h
 CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../Def.h
 
+CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../70/03/x03.cpp
+CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../70/03/x03.h
+CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../70/Stack.h
+CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../Def.h
+
+CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: ../70/Stack.cpp
+CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: ../70/Stack.h
+CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: ../Def.h
+
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/03/x03.h
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/Stack.h
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/Test70.cpp
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/Test70.h
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../Def.h
+
 CMakeFiles/Algorithms.dir/Def.cpp.obj: ../Def.cpp
 CMakeFiles/Algorithms.dir/Def.cpp.obj: ../Def.h
 
@@ -281,6 +296,7 @@ CMakeFiles/Algorithms.dir/main.cpp.obj: ../40/24/x24.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../40/25/x25.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../40/LinkList.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../40/Test40.h
+CMakeFiles/Algorithms.dir/main.cpp.obj: ../70/Test70.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../Def.h
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../main.cpp
 
