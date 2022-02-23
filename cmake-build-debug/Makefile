@@ -1276,6 +1276,60 @@ Algorithms/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/40/Test40.cpp.s
 .PHONY : 40/Test40.cpp.s
 
+70/Stack.obj: 70/Stack.cpp.obj
+
+.PHONY : 70/Stack.obj
+
+# target to build an object file
+70/Stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/Stack.cpp.obj
+.PHONY : 70/Stack.cpp.obj
+
+70/Stack.i: 70/Stack.cpp.i
+
+.PHONY : 70/Stack.i
+
+# target to preprocess a source file
+70/Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/Stack.cpp.i
+.PHONY : 70/Stack.cpp.i
+
+70/Stack.s: 70/Stack.cpp.s
+
+.PHONY : 70/Stack.s
+
+# target to generate assembly for a file
+70/Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/Stack.cpp.s
+.PHONY : 70/Stack.cpp.s
+
+70/Test70.obj: 70/Test70.cpp.obj
+
+.PHONY : 70/Test70.obj
+
+# target to build an object file
+70/Test70.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/Test70.cpp.obj
+.PHONY : 70/Test70.cpp.obj
+
+70/Test70.i: 70/Test70.cpp.i
+
+.PHONY : 70/Test70.i
+
+# target to preprocess a source file
+70/Test70.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/Test70.cpp.i
+.PHONY : 70/Test70.cpp.i
+
+70/Test70.s: 70/Test70.cpp.s
+
+.PHONY : 70/Test70.s
+
+# target to generate assembly for a file
+70/Test70.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/Test70.cpp.s
+.PHONY : 70/Test70.cpp.s
+
 Def.obj: Def.cpp.obj
 
 .PHONY : Def.obj
@@ -1465,6 +1519,12 @@ help:
 	@echo ... 40/Test40.obj
 	@echo ... 40/Test40.i
 	@echo ... 40/Test40.s
+	@echo ... 70/Stack.obj
+	@echo ... 70/Stack.i
+	@echo ... 70/Stack.s
+	@echo ... 70/Test70.obj
+	@echo ... 70/Test70.i
+	@echo ... 70/Test70.s
 	@echo ... Def.obj
 	@echo ... Def.i
 	@echo ... Def.s
