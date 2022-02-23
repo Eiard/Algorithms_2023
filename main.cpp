@@ -2,9 +2,10 @@
 
 // P18
 #include "./18/Test18.h"
+// P40
 #include "./40/Test40.h"
-// P
-
+// P70
+#include "./70/Test70.h"
 
 
 int main() {
@@ -13,16 +14,15 @@ int main() {
     printf("---->");
     int Enter;
 
-    scanf("%d",&Enter);
+    scanf("%d", &Enter);
 
-    if(Enter == 18){
+    if (Enter == 18) {
         Test18();
-    }
-    else if(Enter == 40){
+    } else if (Enter == 40) {
         Test40();
+    } else if (Enter == 70) {
+        Test70();
     }
-
-
 
 
     return 0;
