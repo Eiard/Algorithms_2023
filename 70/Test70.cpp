@@ -12,13 +12,13 @@ void Test70(){
     int Enter;
     scanf("%d", &Enter);
 
-    if (Enter == 1) {
+    if (Enter == 3) {
         //
 
-    } else if (Enter == 2) {
+    } else if (Enter == 4) {
         //
 
-    } else if (Enter == 3) {
+    } else if (Enter == 5) {
         //
 
     }
