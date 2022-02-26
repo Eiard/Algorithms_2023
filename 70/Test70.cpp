@@ -16,10 +16,10 @@ void Test70(){
         // 判断是否合法
         x70_03Test();
     } else if (Enter == 4) {
-        //
-
+        // 利用栈判断链表是否对称
+        x70_04Test();
     } else if (Enter == 5) {
-        //
-
+        // 创建一个共享栈
+        x70_05Test();
     }
 }

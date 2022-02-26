@@ -254,12 +254,26 @@ CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj
  D:/Computer/Code/C++/Algorithms/70/03/x03.h
  D:/Computer/Code/C++/Algorithms/70/Stack.h
  D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
+ D:/Computer/Code/C++/Algorithms/70/04/x04.cpp
+ D:/Computer/Code/C++/Algorithms/70/04/x04.h
+ D:/Computer/Code/C++/Algorithms/70/Stack.h
+ D:/Computer/Code/C++/Algorithms/Def.h
+CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj
+ D:/Computer/Code/C++/Algorithms/70/05/x05.cpp
+ D:/Computer/Code/C++/Algorithms/70/05/x05.h
+ D:/Computer/Code/C++/Algorithms/70/Stack.h
+ D:/Computer/Code/C++/Algorithms/Def.h
 CMakeFiles/Algorithms.dir/70/Stack.cpp.obj
  D:/Computer/Code/C++/Algorithms/70/Stack.cpp
  D:/Computer/Code/C++/Algorithms/70/Stack.h
  D:/Computer/Code/C++/Algorithms/Def.h
 CMakeFiles/Algorithms.dir/70/Test70.cpp.obj
+ D:/Computer/Code/C++/Algorithms/40/LinkList.h
  D:/Computer/Code/C++/Algorithms/70/03/x03.h
+ D:/Computer/Code/C++/Algorithms/70/04/x04.h
+ D:/Computer/Code/C++/Algorithms/70/05/x05.h
  D:/Computer/Code/C++/Algorithms/70/Stack.h
  D:/Computer/Code/C++/Algorithms/70/Test70.cpp
  D:/Computer/Code/C++/Algorithms/70/Test70.h

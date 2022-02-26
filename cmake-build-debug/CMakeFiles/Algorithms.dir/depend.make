@@ -254,11 +254,25 @@ CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../70/03/x03.h
 CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../70/Stack.h
 CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../Def.h
 
+CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj: ../40/LinkList.h
+CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj: ../70/04/x04.cpp
+CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj: ../70/04/x04.h
+CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj: ../70/Stack.h
+CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj: ../Def.h
+
+CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj: ../70/05/x05.cpp
+CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj: ../70/05/x05.h
+CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj: ../70/Stack.h
+CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj: ../Def.h
+
 CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: ../70/Stack.cpp
 CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: ../70/Stack.h
 CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: ../Def.h
 
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../40/LinkList.h
 CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/03/x03.h
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/04/x04.h
+CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/05/x05.h
 CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/Stack.h
 CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/Test70.cpp
 CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/Test70.h
