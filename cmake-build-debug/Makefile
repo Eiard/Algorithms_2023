@@ -1411,113 +1411,167 @@ Algorithms/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/70/Test70.cpp.s
 .PHONY : 70/Test70.cpp.s
 
-85/x01/x01.obj: 85/x01/x01.cpp.obj
+85/01/x01.obj: 85/01/x01.cpp.obj
 
-.PHONY : 85/x01/x01.obj
-
-# target to build an object file
-85/x01/x01.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x01/x01.cpp.obj
-.PHONY : 85/x01/x01.cpp.obj
-
-85/x01/x01.i: 85/x01/x01.cpp.i
-
-.PHONY : 85/x01/x01.i
-
-# target to preprocess a source file
-85/x01/x01.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x01/x01.cpp.i
-.PHONY : 85/x01/x01.cpp.i
-
-85/x01/x01.s: 85/x01/x01.cpp.s
-
-.PHONY : 85/x01/x01.s
-
-# target to generate assembly for a file
-85/x01/x01.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x01/x01.cpp.s
-.PHONY : 85/x01/x01.cpp.s
-
-85/x02/x02.obj: 85/x02/x02.cpp.obj
-
-.PHONY : 85/x02/x02.obj
+.PHONY : 85/01/x01.obj
 
 # target to build an object file
-85/x02/x02.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x02/x02.cpp.obj
-.PHONY : 85/x02/x02.cpp.obj
+85/01/x01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/01/x01.cpp.obj
+.PHONY : 85/01/x01.cpp.obj
 
-85/x02/x02.i: 85/x02/x02.cpp.i
+85/01/x01.i: 85/01/x01.cpp.i
 
-.PHONY : 85/x02/x02.i
+.PHONY : 85/01/x01.i
 
 # target to preprocess a source file
-85/x02/x02.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x02/x02.cpp.i
-.PHONY : 85/x02/x02.cpp.i
+85/01/x01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/01/x01.cpp.i
+.PHONY : 85/01/x01.cpp.i
 
-85/x02/x02.s: 85/x02/x02.cpp.s
+85/01/x01.s: 85/01/x01.cpp.s
 
-.PHONY : 85/x02/x02.s
+.PHONY : 85/01/x01.s
 
 # target to generate assembly for a file
-85/x02/x02.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x02/x02.cpp.s
-.PHONY : 85/x02/x02.cpp.s
+85/01/x01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/01/x01.cpp.s
+.PHONY : 85/01/x01.cpp.s
 
-85/x03/x03.obj: 85/x03/x03.cpp.obj
+85/02/x02.obj: 85/02/x02.cpp.obj
 
-.PHONY : 85/x03/x03.obj
+.PHONY : 85/02/x02.obj
 
 # target to build an object file
-85/x03/x03.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x03/x03.cpp.obj
-.PHONY : 85/x03/x03.cpp.obj
+85/02/x02.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/02/x02.cpp.obj
+.PHONY : 85/02/x02.cpp.obj
 
-85/x03/x03.i: 85/x03/x03.cpp.i
+85/02/x02.i: 85/02/x02.cpp.i
 
-.PHONY : 85/x03/x03.i
+.PHONY : 85/02/x02.i
 
 # target to preprocess a source file
-85/x03/x03.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x03/x03.cpp.i
-.PHONY : 85/x03/x03.cpp.i
+85/02/x02.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/02/x02.cpp.i
+.PHONY : 85/02/x02.cpp.i
 
-85/x03/x03.s: 85/x03/x03.cpp.s
+85/02/x02.s: 85/02/x02.cpp.s
 
-.PHONY : 85/x03/x03.s
+.PHONY : 85/02/x02.s
 
 # target to generate assembly for a file
-85/x03/x03.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x03/x03.cpp.s
-.PHONY : 85/x03/x03.cpp.s
+85/02/x02.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/02/x02.cpp.s
+.PHONY : 85/02/x02.cpp.s
 
-85/x04/x04.obj: 85/x04/x04.cpp.obj
+85/03/x03.obj: 85/03/x03.cpp.obj
 
-.PHONY : 85/x04/x04.obj
+.PHONY : 85/03/x03.obj
 
 # target to build an object file
-85/x04/x04.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x04/x04.cpp.obj
-.PHONY : 85/x04/x04.cpp.obj
+85/03/x03.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/03/x03.cpp.obj
+.PHONY : 85/03/x03.cpp.obj
 
-85/x04/x04.i: 85/x04/x04.cpp.i
+85/03/x03.i: 85/03/x03.cpp.i
 
-.PHONY : 85/x04/x04.i
+.PHONY : 85/03/x03.i
 
 # target to preprocess a source file
-85/x04/x04.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x04/x04.cpp.i
-.PHONY : 85/x04/x04.cpp.i
+85/03/x03.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/03/x03.cpp.i
+.PHONY : 85/03/x03.cpp.i
 
-85/x04/x04.s: 85/x04/x04.cpp.s
+85/03/x03.s: 85/03/x03.cpp.s
 
-.PHONY : 85/x04/x04.s
+.PHONY : 85/03/x03.s
 
 # target to generate assembly for a file
-85/x04/x04.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/x04/x04.cpp.s
-.PHONY : 85/x04/x04.cpp.s
+85/03/x03.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/03/x03.cpp.s
+.PHONY : 85/03/x03.cpp.s
+
+85/04/x04.obj: 85/04/x04.cpp.obj
+
+.PHONY : 85/04/x04.obj
+
+# target to build an object file
+85/04/x04.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/04/x04.cpp.obj
+.PHONY : 85/04/x04.cpp.obj
+
+85/04/x04.i: 85/04/x04.cpp.i
+
+.PHONY : 85/04/x04.i
+
+# target to preprocess a source file
+85/04/x04.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/04/x04.cpp.i
+.PHONY : 85/04/x04.cpp.i
+
+85/04/x04.s: 85/04/x04.cpp.s
+
+.PHONY : 85/04/x04.s
+
+# target to generate assembly for a file
+85/04/x04.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/04/x04.cpp.s
+.PHONY : 85/04/x04.cpp.s
+
+85/Queue.obj: 85/Queue.cpp.obj
+
+.PHONY : 85/Queue.obj
+
+# target to build an object file
+85/Queue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/Queue.cpp.obj
+.PHONY : 85/Queue.cpp.obj
+
+85/Queue.i: 85/Queue.cpp.i
+
+.PHONY : 85/Queue.i
+
+# target to preprocess a source file
+85/Queue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/Queue.cpp.i
+.PHONY : 85/Queue.cpp.i
+
+85/Queue.s: 85/Queue.cpp.s
+
+.PHONY : 85/Queue.s
+
+# target to generate assembly for a file
+85/Queue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/Queue.cpp.s
+.PHONY : 85/Queue.cpp.s
+
+85/Test85.obj: 85/Test85.cpp.obj
+
+.PHONY : 85/Test85.obj
+
+# target to build an object file
+85/Test85.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/Test85.cpp.obj
+.PHONY : 85/Test85.cpp.obj
+
+85/Test85.i: 85/Test85.cpp.i
+
+.PHONY : 85/Test85.i
+
+# target to preprocess a source file
+85/Test85.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/Test85.cpp.i
+.PHONY : 85/Test85.cpp.i
+
+85/Test85.s: 85/Test85.cpp.s
+
+.PHONY : 85/Test85.s
+
+# target to generate assembly for a file
+85/Test85.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/85/Test85.cpp.s
+.PHONY : 85/Test85.cpp.s
 
 Def.obj: Def.cpp.obj
 
@@ -1723,18 +1777,24 @@ help:
 	@echo ... 70/Test70.obj
 	@echo ... 70/Test70.i
 	@echo ... 70/Test70.s
-	@echo ... 85/x01/x01.obj
-	@echo ... 85/x01/x01.i
-	@echo ... 85/x01/x01.s
-	@echo ... 85/x02/x02.obj
-	@echo ... 85/x02/x02.i
-	@echo ... 85/x02/x02.s
-	@echo ... 85/x03/x03.obj
-	@echo ... 85/x03/x03.i
-	@echo ... 85/x03/x03.s
-	@echo ... 85/x04/x04.obj
-	@echo ... 85/x04/x04.i
-	@echo ... 85/x04/x04.s
+	@echo ... 85/01/x01.obj
+	@echo ... 85/01/x01.i
+	@echo ... 85/01/x01.s
+	@echo ... 85/02/x02.obj
+	@echo ... 85/02/x02.i
+	@echo ... 85/02/x02.s
+	@echo ... 85/03/x03.obj
+	@echo ... 85/03/x03.i
+	@echo ... 85/03/x03.s
+	@echo ... 85/04/x04.obj
+	@echo ... 85/04/x04.i
+	@echo ... 85/04/x04.s
+	@echo ... 85/Queue.obj
+	@echo ... 85/Queue.i
+	@echo ... 85/Queue.s
+	@echo ... 85/Test85.obj
+	@echo ... 85/Test85.i
+	@echo ... 85/Test85.s
 	@echo ... Def.obj
 	@echo ... Def.i
 	@echo ... Def.s
