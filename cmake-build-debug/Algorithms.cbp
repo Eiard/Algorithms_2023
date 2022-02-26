@@ -365,6 +365,27 @@
 		<Unit filename="D:/Computer/Code/C++/Algorithms/70/Test70.h">
 			<Option target="Algorithms"/>
 		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/85/x01/x01.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/85/x01/x01.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/85/x02/x02.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/85/x02/x02.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/85/x03/x03.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/85/x04/x04.cpp">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="D:/Computer/Code/C++/Algorithms/85/x04/x04.h">
+			<Option target="Algorithms"/>
+		</Unit>
 		<Unit filename="D:/Computer/Code/C++/Algorithms/Def.cpp">
 			<Option target="Algorithms"/>
 		</Unit>
