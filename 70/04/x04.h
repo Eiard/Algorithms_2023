@@ -6,6 +6,7 @@
 #define ALGORITHMS_X04_H
 
 #include "../Stack.h"
+#include "../../40/LinkList.h"
 
 ElemType x70_04();
 
