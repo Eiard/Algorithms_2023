@@ -1,4 +1,4 @@
-for /l %i in (10,1,25) do mkdir %i
+for /l %i in (10,1,11) do mkdir %i
 
 
 

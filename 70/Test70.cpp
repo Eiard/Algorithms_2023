@@ -13,8 +13,8 @@ void Test70(){
     scanf("%d", &Enter);
 
     if (Enter == 3) {
-        //
-
+        // 判断是否合法
+        x70_03Test();
     } else if (Enter == 4) {
         //
 
