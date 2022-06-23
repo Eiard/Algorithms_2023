@@ -1,3 +1,3 @@
 "D:\Computer\CLion 2020.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Algorithms.dir/objects.a
-D:\Computer\MinGW\bin\ar.exe cr CMakeFiles\Algorithms.dir/objects.a @CMakeFiles\Algorithms.dir\objects1.rsp
-D:\Computer\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Algorithms.dir/objects.a -Wl,--no-whole-archive  -o Algorithms.exe -Wl,--out-implib,libAlgorithms.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Algorithms.dir\linklibs.rsp
+D:\Computer\Environment\cpp\mingw64\bin\ar.exe cr CMakeFiles\Algorithms.dir/objects.a @CMakeFiles\Algorithms.dir\objects1.rsp
+D:\Computer\Environment\cpp\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Algorithms.dir/objects.a -Wl,--no-whole-archive  -o Algorithms.exe -Wl,--out-implib,libAlgorithms.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Algorithms.dir\linklibs.rsp

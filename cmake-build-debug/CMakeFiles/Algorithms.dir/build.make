@@ -79,717 +79,717 @@ include CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/main.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorithms.dir/main.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\main.cpp.obj -c D:\Computer\Code\C++\Algorithms\main.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\main.cpp.obj -c D:\Computer\Code\C++\Algorithms\main.cpp
 
 CMakeFiles/Algorithms.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/main.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\main.cpp > CMakeFiles\Algorithms.dir\main.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\main.cpp > CMakeFiles\Algorithms.dir\main.cpp.i
 
 CMakeFiles/Algorithms.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/main.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\main.cpp -o CMakeFiles\Algorithms.dir\main.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\main.cpp -o CMakeFiles\Algorithms.dir\main.cpp.s
 
 CMakeFiles/Algorithms.dir/18/01/x01.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/01/x01.cpp.obj: ../18/01/x01.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Algorithms.dir/18/01/x01.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\01\x01.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\01\x01.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\01\x01.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\01\x01.cpp
 
 CMakeFiles/Algorithms.dir/18/01/x01.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/01/x01.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\01\x01.cpp > CMakeFiles\Algorithms.dir\18\01\x01.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\01\x01.cpp > CMakeFiles\Algorithms.dir\18\01\x01.cpp.i
 
 CMakeFiles/Algorithms.dir/18/01/x01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/01/x01.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\01\x01.cpp -o CMakeFiles\Algorithms.dir\18\01\x01.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\01\x01.cpp -o CMakeFiles\Algorithms.dir\18\01\x01.cpp.s
 
 CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: ../18/Test18.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Algorithms.dir/18/Test18.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\Test18.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\Test18.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\Test18.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\Test18.cpp
 
 CMakeFiles/Algorithms.dir/18/Test18.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/Test18.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\Test18.cpp > CMakeFiles\Algorithms.dir\18\Test18.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\Test18.cpp > CMakeFiles\Algorithms.dir\18\Test18.cpp.i
 
 CMakeFiles/Algorithms.dir/18/Test18.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/Test18.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\Test18.cpp -o CMakeFiles\Algorithms.dir\18\Test18.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\Test18.cpp -o CMakeFiles\Algorithms.dir\18\Test18.cpp.s
 
 CMakeFiles/Algorithms.dir/18/02/x02.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/02/x02.cpp.obj: ../18/02/x02.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Algorithms.dir/18/02/x02.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\02\x02.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\02\x02.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\02\x02.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\02\x02.cpp
 
 CMakeFiles/Algorithms.dir/18/02/x02.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/02/x02.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\02\x02.cpp > CMakeFiles\Algorithms.dir\18\02\x02.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\02\x02.cpp > CMakeFiles\Algorithms.dir\18\02\x02.cpp.i
 
 CMakeFiles/Algorithms.dir/18/02/x02.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/02/x02.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\02\x02.cpp -o CMakeFiles\Algorithms.dir\18\02\x02.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\02\x02.cpp -o CMakeFiles\Algorithms.dir\18\02\x02.cpp.s
 
 CMakeFiles/Algorithms.dir/Def.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/Def.cpp.obj: ../Def.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Algorithms.dir/Def.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\Def.cpp.obj -c D:\Computer\Code\C++\Algorithms\Def.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\Def.cpp.obj -c D:\Computer\Code\C++\Algorithms\Def.cpp
 
 CMakeFiles/Algorithms.dir/Def.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/Def.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\Def.cpp > CMakeFiles\Algorithms.dir\Def.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\Def.cpp > CMakeFiles\Algorithms.dir\Def.cpp.i
 
 CMakeFiles/Algorithms.dir/Def.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/Def.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\Def.cpp -o CMakeFiles\Algorithms.dir\Def.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\Def.cpp -o CMakeFiles\Algorithms.dir\Def.cpp.s
 
 CMakeFiles/Algorithms.dir/18/03/x03.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/03/x03.cpp.obj: ../18/03/x03.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Algorithms.dir/18/03/x03.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\03\x03.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\03\x03.cpp
 
 CMakeFiles/Algorithms.dir/18/03/x03.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/03/x03.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\03\x03.cpp > CMakeFiles\Algorithms.dir\18\03\x03.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\03\x03.cpp > CMakeFiles\Algorithms.dir\18\03\x03.cpp.i
 
 CMakeFiles/Algorithms.dir/18/03/x03.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/03/x03.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\03\x03.cpp -o CMakeFiles\Algorithms.dir\18\03\x03.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\03\x03.cpp -o CMakeFiles\Algorithms.dir\18\03\x03.cpp.s
 
 CMakeFiles/Algorithms.dir/18/04/x04.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/04/x04.cpp.obj: ../18/04/x04.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Algorithms.dir/18/04/x04.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\04\x04.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\04\x04.cpp
 
 CMakeFiles/Algorithms.dir/18/04/x04.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/04/x04.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\04\x04.cpp > CMakeFiles\Algorithms.dir\18\04\x04.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\04\x04.cpp > CMakeFiles\Algorithms.dir\18\04\x04.cpp.i
 
 CMakeFiles/Algorithms.dir/18/04/x04.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/04/x04.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\04\x04.cpp -o CMakeFiles\Algorithms.dir\18\04\x04.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\04\x04.cpp -o CMakeFiles\Algorithms.dir\18\04\x04.cpp.s
 
 CMakeFiles/Algorithms.dir/18/05/x05.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/05/x05.cpp.obj: ../18/05/x05.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Algorithms.dir/18/05/x05.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\05\x05.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\05\x05.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\05\x05.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\05\x05.cpp
 
 CMakeFiles/Algorithms.dir/18/05/x05.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/05/x05.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\05\x05.cpp > CMakeFiles\Algorithms.dir\18\05\x05.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\05\x05.cpp > CMakeFiles\Algorithms.dir\18\05\x05.cpp.i
 
 CMakeFiles/Algorithms.dir/18/05/x05.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/05/x05.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\05\x05.cpp -o CMakeFiles\Algorithms.dir\18\05\x05.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\05\x05.cpp -o CMakeFiles\Algorithms.dir\18\05\x05.cpp.s
 
 CMakeFiles/Algorithms.dir/18/06/x06.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/06/x06.cpp.obj: ../18/06/x06.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Algorithms.dir/18/06/x06.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\06\x06.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\06\x06.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\06\x06.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\06\x06.cpp
 
 CMakeFiles/Algorithms.dir/18/06/x06.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/06/x06.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\06\x06.cpp > CMakeFiles\Algorithms.dir\18\06\x06.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\06\x06.cpp > CMakeFiles\Algorithms.dir\18\06\x06.cpp.i
 
 CMakeFiles/Algorithms.dir/18/06/x06.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/06/x06.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\06\x06.cpp -o CMakeFiles\Algorithms.dir\18\06\x06.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\06\x06.cpp -o CMakeFiles\Algorithms.dir\18\06\x06.cpp.s
 
 CMakeFiles/Algorithms.dir/18/07/x07.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/07/x07.cpp.obj: ../18/07/x07.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Algorithms.dir/18/07/x07.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\07\x07.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\07\x07.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\07\x07.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\07\x07.cpp
 
 CMakeFiles/Algorithms.dir/18/07/x07.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/07/x07.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\07\x07.cpp > CMakeFiles\Algorithms.dir\18\07\x07.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\07\x07.cpp > CMakeFiles\Algorithms.dir\18\07\x07.cpp.i
 
 CMakeFiles/Algorithms.dir/18/07/x07.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/07/x07.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\07\x07.cpp -o CMakeFiles\Algorithms.dir\18\07\x07.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\07\x07.cpp -o CMakeFiles\Algorithms.dir\18\07\x07.cpp.s
 
 CMakeFiles/Algorithms.dir/18/08/x08.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/08/x08.cpp.obj: ../18/08/x08.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Algorithms.dir/18/08/x08.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\08\x08.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\08\x08.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\08\x08.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\08\x08.cpp
 
 CMakeFiles/Algorithms.dir/18/08/x08.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/08/x08.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\08\x08.cpp > CMakeFiles\Algorithms.dir\18\08\x08.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\08\x08.cpp > CMakeFiles\Algorithms.dir\18\08\x08.cpp.i
 
 CMakeFiles/Algorithms.dir/18/08/x08.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/08/x08.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\08\x08.cpp -o CMakeFiles\Algorithms.dir\18\08\x08.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\08\x08.cpp -o CMakeFiles\Algorithms.dir\18\08\x08.cpp.s
 
 CMakeFiles/Algorithms.dir/18/09/x09.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/09/x09.cpp.obj: ../18/09/x09.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Algorithms.dir/18/09/x09.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\09\x09.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\09\x09.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\09\x09.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\09\x09.cpp
 
 CMakeFiles/Algorithms.dir/18/09/x09.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/09/x09.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\09\x09.cpp > CMakeFiles\Algorithms.dir\18\09\x09.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\09\x09.cpp > CMakeFiles\Algorithms.dir\18\09\x09.cpp.i
 
 CMakeFiles/Algorithms.dir/18/09/x09.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/09/x09.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\09\x09.cpp -o CMakeFiles\Algorithms.dir\18\09\x09.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\09\x09.cpp -o CMakeFiles\Algorithms.dir\18\09\x09.cpp.s
 
 CMakeFiles/Algorithms.dir/18/10/x10.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/10/x10.cpp.obj: ../18/10/x10.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Algorithms.dir/18/10/x10.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\10\x10.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\10\x10.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\10\x10.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\10\x10.cpp
 
 CMakeFiles/Algorithms.dir/18/10/x10.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/10/x10.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\10\x10.cpp > CMakeFiles\Algorithms.dir\18\10\x10.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\10\x10.cpp > CMakeFiles\Algorithms.dir\18\10\x10.cpp.i
 
 CMakeFiles/Algorithms.dir/18/10/x10.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/10/x10.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\10\x10.cpp -o CMakeFiles\Algorithms.dir\18\10\x10.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\10\x10.cpp -o CMakeFiles\Algorithms.dir\18\10\x10.cpp.s
 
 CMakeFiles/Algorithms.dir/18/11/x11.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/11/x11.cpp.obj: ../18/11/x11.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Algorithms.dir/18/11/x11.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\11\x11.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\11\x11.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\11\x11.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\11\x11.cpp
 
 CMakeFiles/Algorithms.dir/18/11/x11.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/11/x11.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\11\x11.cpp > CMakeFiles\Algorithms.dir\18\11\x11.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\11\x11.cpp > CMakeFiles\Algorithms.dir\18\11\x11.cpp.i
 
 CMakeFiles/Algorithms.dir/18/11/x11.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/11/x11.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\11\x11.cpp -o CMakeFiles\Algorithms.dir\18\11\x11.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\11\x11.cpp -o CMakeFiles\Algorithms.dir\18\11\x11.cpp.s
 
 CMakeFiles/Algorithms.dir/18/12/x12.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/12/x12.cpp.obj: ../18/12/x12.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Algorithms.dir/18/12/x12.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\12\x12.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\12\x12.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\12\x12.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\12\x12.cpp
 
 CMakeFiles/Algorithms.dir/18/12/x12.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/12/x12.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\12\x12.cpp > CMakeFiles\Algorithms.dir\18\12\x12.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\12\x12.cpp > CMakeFiles\Algorithms.dir\18\12\x12.cpp.i
 
 CMakeFiles/Algorithms.dir/18/12/x12.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/12/x12.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\12\x12.cpp -o CMakeFiles\Algorithms.dir\18\12\x12.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\12\x12.cpp -o CMakeFiles\Algorithms.dir\18\12\x12.cpp.s
 
 CMakeFiles/Algorithms.dir/18/13/x13.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/13/x13.cpp.obj: ../18/13/x13.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Algorithms.dir/18/13/x13.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\13\x13.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\13\x13.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\13\x13.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\13\x13.cpp
 
 CMakeFiles/Algorithms.dir/18/13/x13.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/13/x13.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\13\x13.cpp > CMakeFiles\Algorithms.dir\18\13\x13.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\13\x13.cpp > CMakeFiles\Algorithms.dir\18\13\x13.cpp.i
 
 CMakeFiles/Algorithms.dir/18/13/x13.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/13/x13.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\13\x13.cpp -o CMakeFiles\Algorithms.dir\18\13\x13.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\13\x13.cpp -o CMakeFiles\Algorithms.dir\18\13\x13.cpp.s
 
 CMakeFiles/Algorithms.dir/18/14/x14.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/18/14/x14.cpp.obj: ../18/14/x14.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Algorithms.dir/18/14/x14.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\14\x14.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\14\x14.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\18\14\x14.cpp.obj -c D:\Computer\Code\C++\Algorithms\18\14\x14.cpp
 
 CMakeFiles/Algorithms.dir/18/14/x14.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/18/14/x14.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\14\x14.cpp > CMakeFiles\Algorithms.dir\18\14\x14.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\18\14\x14.cpp > CMakeFiles\Algorithms.dir\18\14\x14.cpp.i
 
 CMakeFiles/Algorithms.dir/18/14/x14.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/18/14/x14.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\14\x14.cpp -o CMakeFiles\Algorithms.dir\18\14\x14.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\18\14\x14.cpp -o CMakeFiles\Algorithms.dir\18\14\x14.cpp.s
 
 CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj: ../40/LinkList.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Algorithms.dir/40/LinkList.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\LinkList.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\LinkList.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\LinkList.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\LinkList.cpp
 
 CMakeFiles/Algorithms.dir/40/LinkList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/LinkList.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\LinkList.cpp > CMakeFiles\Algorithms.dir\40\LinkList.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\LinkList.cpp > CMakeFiles\Algorithms.dir\40\LinkList.cpp.i
 
 CMakeFiles/Algorithms.dir/40/LinkList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/LinkList.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\LinkList.cpp -o CMakeFiles\Algorithms.dir\40\LinkList.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\LinkList.cpp -o CMakeFiles\Algorithms.dir\40\LinkList.cpp.s
 
 CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj: ../40/01/x01.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\01\x01.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\01\x01.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\01\x01.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\01\x01.cpp
 
 CMakeFiles/Algorithms.dir/40/01/x01.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/01/x01.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\01\x01.cpp > CMakeFiles\Algorithms.dir\40\01\x01.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\01\x01.cpp > CMakeFiles\Algorithms.dir\40\01\x01.cpp.i
 
 CMakeFiles/Algorithms.dir/40/01/x01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/01/x01.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\01\x01.cpp -o CMakeFiles\Algorithms.dir\40\01\x01.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\01\x01.cpp -o CMakeFiles\Algorithms.dir\40\01\x01.cpp.s
 
 CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj: ../40/02/x02.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\02\x02.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\02\x02.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\02\x02.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\02\x02.cpp
 
 CMakeFiles/Algorithms.dir/40/02/x02.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/02/x02.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\02\x02.cpp > CMakeFiles\Algorithms.dir\40\02\x02.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\02\x02.cpp > CMakeFiles\Algorithms.dir\40\02\x02.cpp.i
 
 CMakeFiles/Algorithms.dir/40/02/x02.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/02/x02.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\02\x02.cpp -o CMakeFiles\Algorithms.dir\40\02\x02.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\02\x02.cpp -o CMakeFiles\Algorithms.dir\40\02\x02.cpp.s
 
 CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/Test40.cpp.obj: ../40/Test40.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Algorithms.dir/40/Test40.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\Test40.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\Test40.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\Test40.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\Test40.cpp
 
 CMakeFiles/Algorithms.dir/40/Test40.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/Test40.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\Test40.cpp > CMakeFiles\Algorithms.dir\40\Test40.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\Test40.cpp > CMakeFiles\Algorithms.dir\40\Test40.cpp.i
 
 CMakeFiles/Algorithms.dir/40/Test40.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/Test40.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\Test40.cpp -o CMakeFiles\Algorithms.dir\40\Test40.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\Test40.cpp -o CMakeFiles\Algorithms.dir\40\Test40.cpp.s
 
 CMakeFiles/Algorithms.dir/40/03/x03.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/03/x03.cpp.obj: ../40/03/x03.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Algorithms.dir/40/03/x03.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\03\x03.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\03\x03.cpp
 
 CMakeFiles/Algorithms.dir/40/03/x03.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/03/x03.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\03\x03.cpp > CMakeFiles\Algorithms.dir\40\03\x03.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\03\x03.cpp > CMakeFiles\Algorithms.dir\40\03\x03.cpp.i
 
 CMakeFiles/Algorithms.dir/40/03/x03.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/03/x03.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\03\x03.cpp -o CMakeFiles\Algorithms.dir\40\03\x03.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\03\x03.cpp -o CMakeFiles\Algorithms.dir\40\03\x03.cpp.s
 
 CMakeFiles/Algorithms.dir/40/04/x04.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/04/x04.cpp.obj: ../40/04/x04.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Algorithms.dir/40/04/x04.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\04\x04.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\04\x04.cpp
 
 CMakeFiles/Algorithms.dir/40/04/x04.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/04/x04.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\04\x04.cpp > CMakeFiles\Algorithms.dir\40\04\x04.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\04\x04.cpp > CMakeFiles\Algorithms.dir\40\04\x04.cpp.i
 
 CMakeFiles/Algorithms.dir/40/04/x04.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/04/x04.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\04\x04.cpp -o CMakeFiles\Algorithms.dir\40\04\x04.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\04\x04.cpp -o CMakeFiles\Algorithms.dir\40\04\x04.cpp.s
 
 CMakeFiles/Algorithms.dir/40/05/x05.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/05/x05.cpp.obj: ../40/05/x05.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Algorithms.dir/40/05/x05.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\05\x05.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\05\x05.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\05\x05.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\05\x05.cpp
 
 CMakeFiles/Algorithms.dir/40/05/x05.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/05/x05.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\05\x05.cpp > CMakeFiles\Algorithms.dir\40\05\x05.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\05\x05.cpp > CMakeFiles\Algorithms.dir\40\05\x05.cpp.i
 
 CMakeFiles/Algorithms.dir/40/05/x05.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/05/x05.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\05\x05.cpp -o CMakeFiles\Algorithms.dir\40\05\x05.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\05\x05.cpp -o CMakeFiles\Algorithms.dir\40\05\x05.cpp.s
 
 CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj: ../40/07/x07.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Algorithms.dir/40/07/x07.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\07\x07.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\07\x07.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\07\x07.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\07\x07.cpp
 
 CMakeFiles/Algorithms.dir/40/07/x07.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/07/x07.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\07\x07.cpp > CMakeFiles\Algorithms.dir\40\07\x07.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\07\x07.cpp > CMakeFiles\Algorithms.dir\40\07\x07.cpp.i
 
 CMakeFiles/Algorithms.dir/40/07/x07.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/07/x07.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\07\x07.cpp -o CMakeFiles\Algorithms.dir\40\07\x07.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\07\x07.cpp -o CMakeFiles\Algorithms.dir\40\07\x07.cpp.s
 
 CMakeFiles/Algorithms.dir/40/08/x08.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/08/x08.cpp.obj: ../40/08/x08.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Algorithms.dir/40/08/x08.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\08\x08.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\08\x08.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\08\x08.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\08\x08.cpp
 
 CMakeFiles/Algorithms.dir/40/08/x08.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/08/x08.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\08\x08.cpp > CMakeFiles\Algorithms.dir\40\08\x08.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\08\x08.cpp > CMakeFiles\Algorithms.dir\40\08\x08.cpp.i
 
 CMakeFiles/Algorithms.dir/40/08/x08.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/08/x08.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\08\x08.cpp -o CMakeFiles\Algorithms.dir\40\08\x08.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\08\x08.cpp -o CMakeFiles\Algorithms.dir\40\08\x08.cpp.s
 
 CMakeFiles/Algorithms.dir/40/09/x09.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/09/x09.cpp.obj: ../40/09/x09.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Algorithms.dir/40/09/x09.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\09\x09.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\09\x09.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\09\x09.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\09\x09.cpp
 
 CMakeFiles/Algorithms.dir/40/09/x09.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/09/x09.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\09\x09.cpp > CMakeFiles\Algorithms.dir\40\09\x09.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\09\x09.cpp > CMakeFiles\Algorithms.dir\40\09\x09.cpp.i
 
 CMakeFiles/Algorithms.dir/40/09/x09.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/09/x09.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\09\x09.cpp -o CMakeFiles\Algorithms.dir\40\09\x09.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\09\x09.cpp -o CMakeFiles\Algorithms.dir\40\09\x09.cpp.s
 
 CMakeFiles/Algorithms.dir/40/10/x10.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/10/x10.cpp.obj: ../40/10/x10.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Algorithms.dir/40/10/x10.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\10\x10.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\10\x10.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\10\x10.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\10\x10.cpp
 
 CMakeFiles/Algorithms.dir/40/10/x10.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/10/x10.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\10\x10.cpp > CMakeFiles\Algorithms.dir\40\10\x10.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\10\x10.cpp > CMakeFiles\Algorithms.dir\40\10\x10.cpp.i
 
 CMakeFiles/Algorithms.dir/40/10/x10.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/10/x10.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\10\x10.cpp -o CMakeFiles\Algorithms.dir\40\10\x10.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\10\x10.cpp -o CMakeFiles\Algorithms.dir\40\10\x10.cpp.s
 
 CMakeFiles/Algorithms.dir/40/11/x11.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/11/x11.cpp.obj: ../40/11/x11.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Algorithms.dir/40/11/x11.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\11\x11.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\11\x11.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\11\x11.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\11\x11.cpp
 
 CMakeFiles/Algorithms.dir/40/11/x11.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/11/x11.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\11\x11.cpp > CMakeFiles\Algorithms.dir\40\11\x11.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\11\x11.cpp > CMakeFiles\Algorithms.dir\40\11\x11.cpp.i
 
 CMakeFiles/Algorithms.dir/40/11/x11.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/11/x11.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\11\x11.cpp -o CMakeFiles\Algorithms.dir\40\11\x11.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\11\x11.cpp -o CMakeFiles\Algorithms.dir\40\11\x11.cpp.s
 
 CMakeFiles/Algorithms.dir/40/12/x12.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/12/x12.cpp.obj: ../40/12/x12.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Algorithms.dir/40/12/x12.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\12\x12.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\12\x12.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\12\x12.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\12\x12.cpp
 
 CMakeFiles/Algorithms.dir/40/12/x12.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/12/x12.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\12\x12.cpp > CMakeFiles\Algorithms.dir\40\12\x12.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\12\x12.cpp > CMakeFiles\Algorithms.dir\40\12\x12.cpp.i
 
 CMakeFiles/Algorithms.dir/40/12/x12.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/12/x12.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\12\x12.cpp -o CMakeFiles\Algorithms.dir\40\12\x12.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\12\x12.cpp -o CMakeFiles\Algorithms.dir\40\12\x12.cpp.s
 
 CMakeFiles/Algorithms.dir/40/13/x13.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/13/x13.cpp.obj: ../40/13/x13.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Algorithms.dir/40/13/x13.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\13\x13.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\13\x13.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\13\x13.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\13\x13.cpp
 
 CMakeFiles/Algorithms.dir/40/13/x13.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/13/x13.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\13\x13.cpp > CMakeFiles\Algorithms.dir\40\13\x13.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\13\x13.cpp > CMakeFiles\Algorithms.dir\40\13\x13.cpp.i
 
 CMakeFiles/Algorithms.dir/40/13/x13.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/13/x13.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\13\x13.cpp -o CMakeFiles\Algorithms.dir\40\13\x13.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\13\x13.cpp -o CMakeFiles\Algorithms.dir\40\13\x13.cpp.s
 
 CMakeFiles/Algorithms.dir/40/14/x14.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/14/x14.cpp.obj: ../40/14/x14.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Algorithms.dir/40/14/x14.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\14\x14.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\14\x14.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\14\x14.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\14\x14.cpp
 
 CMakeFiles/Algorithms.dir/40/14/x14.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/14/x14.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\14\x14.cpp > CMakeFiles\Algorithms.dir\40\14\x14.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\14\x14.cpp > CMakeFiles\Algorithms.dir\40\14\x14.cpp.i
 
 CMakeFiles/Algorithms.dir/40/14/x14.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/14/x14.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\14\x14.cpp -o CMakeFiles\Algorithms.dir\40\14\x14.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\14\x14.cpp -o CMakeFiles\Algorithms.dir\40\14\x14.cpp.s
 
 CMakeFiles/Algorithms.dir/40/15/x15.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/15/x15.cpp.obj: ../40/15/x15.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Algorithms.dir/40/15/x15.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\15\x15.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\15\x15.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\15\x15.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\15\x15.cpp
 
 CMakeFiles/Algorithms.dir/40/15/x15.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/15/x15.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\15\x15.cpp > CMakeFiles\Algorithms.dir\40\15\x15.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\15\x15.cpp > CMakeFiles\Algorithms.dir\40\15\x15.cpp.i
 
 CMakeFiles/Algorithms.dir/40/15/x15.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/15/x15.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\15\x15.cpp -o CMakeFiles\Algorithms.dir\40\15\x15.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\15\x15.cpp -o CMakeFiles\Algorithms.dir\40\15\x15.cpp.s
 
 CMakeFiles/Algorithms.dir/40/16/x16.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/16/x16.cpp.obj: ../40/16/x16.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/Algorithms.dir/40/16/x16.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\16\x16.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\16\x16.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\16\x16.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\16\x16.cpp
 
 CMakeFiles/Algorithms.dir/40/16/x16.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/16/x16.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\16\x16.cpp > CMakeFiles\Algorithms.dir\40\16\x16.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\16\x16.cpp > CMakeFiles\Algorithms.dir\40\16\x16.cpp.i
 
 CMakeFiles/Algorithms.dir/40/16/x16.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/16/x16.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\16\x16.cpp -o CMakeFiles\Algorithms.dir\40\16\x16.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\16\x16.cpp -o CMakeFiles\Algorithms.dir\40\16\x16.cpp.s
 
 CMakeFiles/Algorithms.dir/40/17/x17.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/17/x17.cpp.obj: ../40/17/x17.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Algorithms.dir/40/17/x17.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\17\x17.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\17\x17.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\17\x17.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\17\x17.cpp
 
 CMakeFiles/Algorithms.dir/40/17/x17.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/17/x17.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\17\x17.cpp > CMakeFiles\Algorithms.dir\40\17\x17.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\17\x17.cpp > CMakeFiles\Algorithms.dir\40\17\x17.cpp.i
 
 CMakeFiles/Algorithms.dir/40/17/x17.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/17/x17.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\17\x17.cpp -o CMakeFiles\Algorithms.dir\40\17\x17.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\17\x17.cpp -o CMakeFiles\Algorithms.dir\40\17\x17.cpp.s
 
 CMakeFiles/Algorithms.dir/40/18/x18.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/18/x18.cpp.obj: ../40/18/x18.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/Algorithms.dir/40/18/x18.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\18\x18.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\18\x18.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\18\x18.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\18\x18.cpp
 
 CMakeFiles/Algorithms.dir/40/18/x18.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/18/x18.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\18\x18.cpp > CMakeFiles\Algorithms.dir\40\18\x18.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\18\x18.cpp > CMakeFiles\Algorithms.dir\40\18\x18.cpp.i
 
 CMakeFiles/Algorithms.dir/40/18/x18.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/18/x18.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\18\x18.cpp -o CMakeFiles\Algorithms.dir\40\18\x18.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\18\x18.cpp -o CMakeFiles\Algorithms.dir\40\18\x18.cpp.s
 
 CMakeFiles/Algorithms.dir/40/19/x19.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/19/x19.cpp.obj: ../40/19/x19.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/Algorithms.dir/40/19/x19.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\19\x19.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\19\x19.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\19\x19.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\19\x19.cpp
 
 CMakeFiles/Algorithms.dir/40/19/x19.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/19/x19.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\19\x19.cpp > CMakeFiles\Algorithms.dir\40\19\x19.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\19\x19.cpp > CMakeFiles\Algorithms.dir\40\19\x19.cpp.i
 
 CMakeFiles/Algorithms.dir/40/19/x19.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/19/x19.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\19\x19.cpp -o CMakeFiles\Algorithms.dir\40\19\x19.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\19\x19.cpp -o CMakeFiles\Algorithms.dir\40\19\x19.cpp.s
 
 CMakeFiles/Algorithms.dir/40/20/x20.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/20/x20.cpp.obj: ../40/20/x20.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/Algorithms.dir/40/20/x20.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\20\x20.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\20\x20.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\20\x20.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\20\x20.cpp
 
 CMakeFiles/Algorithms.dir/40/20/x20.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/20/x20.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\20\x20.cpp > CMakeFiles\Algorithms.dir\40\20\x20.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\20\x20.cpp > CMakeFiles\Algorithms.dir\40\20\x20.cpp.i
 
 CMakeFiles/Algorithms.dir/40/20/x20.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/20/x20.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\20\x20.cpp -o CMakeFiles\Algorithms.dir\40\20\x20.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\20\x20.cpp -o CMakeFiles\Algorithms.dir\40\20\x20.cpp.s
 
 CMakeFiles/Algorithms.dir/40/21/x21.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/21/x21.cpp.obj: ../40/21/x21.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/Algorithms.dir/40/21/x21.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\21\x21.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\21\x21.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\21\x21.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\21\x21.cpp
 
 CMakeFiles/Algorithms.dir/40/21/x21.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/21/x21.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\21\x21.cpp > CMakeFiles\Algorithms.dir\40\21\x21.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\21\x21.cpp > CMakeFiles\Algorithms.dir\40\21\x21.cpp.i
 
 CMakeFiles/Algorithms.dir/40/21/x21.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/21/x21.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\21\x21.cpp -o CMakeFiles\Algorithms.dir\40\21\x21.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\21\x21.cpp -o CMakeFiles\Algorithms.dir\40\21\x21.cpp.s
 
 CMakeFiles/Algorithms.dir/40/22/x22.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/22/x22.cpp.obj: ../40/22/x22.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/Algorithms.dir/40/22/x22.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\22\x22.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\22\x22.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\22\x22.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\22\x22.cpp
 
 CMakeFiles/Algorithms.dir/40/22/x22.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/22/x22.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\22\x22.cpp > CMakeFiles\Algorithms.dir\40\22\x22.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\22\x22.cpp > CMakeFiles\Algorithms.dir\40\22\x22.cpp.i
 
 CMakeFiles/Algorithms.dir/40/22/x22.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/22/x22.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\22\x22.cpp -o CMakeFiles\Algorithms.dir\40\22\x22.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\22\x22.cpp -o CMakeFiles\Algorithms.dir\40\22\x22.cpp.s
 
 CMakeFiles/Algorithms.dir/40/23/x23.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/23/x23.cpp.obj: ../40/23/x23.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/Algorithms.dir/40/23/x23.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\23\x23.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\23\x23.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\23\x23.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\23\x23.cpp
 
 CMakeFiles/Algorithms.dir/40/23/x23.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/23/x23.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\23\x23.cpp > CMakeFiles\Algorithms.dir\40\23\x23.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\23\x23.cpp > CMakeFiles\Algorithms.dir\40\23\x23.cpp.i
 
 CMakeFiles/Algorithms.dir/40/23/x23.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/23/x23.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\23\x23.cpp -o CMakeFiles\Algorithms.dir\40\23\x23.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\23\x23.cpp -o CMakeFiles\Algorithms.dir\40\23\x23.cpp.s
 
 CMakeFiles/Algorithms.dir/40/24/x24.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/24/x24.cpp.obj: ../40/24/x24.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/Algorithms.dir/40/24/x24.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\24\x24.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\24\x24.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\24\x24.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\24\x24.cpp
 
 CMakeFiles/Algorithms.dir/40/24/x24.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/24/x24.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\24\x24.cpp > CMakeFiles\Algorithms.dir\40\24\x24.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\24\x24.cpp > CMakeFiles\Algorithms.dir\40\24\x24.cpp.i
 
 CMakeFiles/Algorithms.dir/40/24/x24.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/24/x24.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\24\x24.cpp -o CMakeFiles\Algorithms.dir\40\24\x24.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\24\x24.cpp -o CMakeFiles\Algorithms.dir\40\24\x24.cpp.s
 
 CMakeFiles/Algorithms.dir/40/25/x25.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/25/x25.cpp.obj: ../40/25/x25.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/Algorithms.dir/40/25/x25.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\25\x25.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\25\x25.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\25\x25.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\25\x25.cpp
 
 CMakeFiles/Algorithms.dir/40/25/x25.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/25/x25.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\25\x25.cpp > CMakeFiles\Algorithms.dir\40\25\x25.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\25\x25.cpp > CMakeFiles\Algorithms.dir\40\25\x25.cpp.i
 
 CMakeFiles/Algorithms.dir/40/25/x25.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/25/x25.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\25\x25.cpp -o CMakeFiles\Algorithms.dir\40\25\x25.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\25\x25.cpp -o CMakeFiles\Algorithms.dir\40\25\x25.cpp.s
 
 CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj: ../40/06/x06.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/Algorithms.dir/40/06/x06.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\06\x06.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\06\x06.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\40\06\x06.cpp.obj -c D:\Computer\Code\C++\Algorithms\40\06\x06.cpp
 
 CMakeFiles/Algorithms.dir/40/06/x06.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/40/06/x06.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\06\x06.cpp > CMakeFiles\Algorithms.dir\40\06\x06.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\40\06\x06.cpp > CMakeFiles\Algorithms.dir\40\06\x06.cpp.i
 
 CMakeFiles/Algorithms.dir/40/06/x06.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/40/06/x06.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\06\x06.cpp -o CMakeFiles\Algorithms.dir\40\06\x06.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\40\06\x06.cpp -o CMakeFiles\Algorithms.dir\40\06\x06.cpp.s
 
 CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/70/Stack.cpp.obj: ../70/Stack.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Algorithms.dir/70/Stack.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\Stack.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\Stack.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\Stack.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\Stack.cpp
 
 CMakeFiles/Algorithms.dir/70/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/70/Stack.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\Stack.cpp > CMakeFiles\Algorithms.dir\70\Stack.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\Stack.cpp > CMakeFiles\Algorithms.dir\70\Stack.cpp.i
 
 CMakeFiles/Algorithms.dir/70/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/70/Stack.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\Stack.cpp -o CMakeFiles\Algorithms.dir\70\Stack.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\Stack.cpp -o CMakeFiles\Algorithms.dir\70\Stack.cpp.s
 
 CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/70/Test70.cpp.obj: ../70/Test70.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Algorithms.dir/70/Test70.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\Test70.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\Test70.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\Test70.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\Test70.cpp
 
 CMakeFiles/Algorithms.dir/70/Test70.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/70/Test70.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\Test70.cpp > CMakeFiles\Algorithms.dir\70\Test70.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\Test70.cpp > CMakeFiles\Algorithms.dir\70\Test70.cpp.i
 
 CMakeFiles/Algorithms.dir/70/Test70.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/70/Test70.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\Test70.cpp -o CMakeFiles\Algorithms.dir\70\Test70.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\Test70.cpp -o CMakeFiles\Algorithms.dir\70\Test70.cpp.s
 
 CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj: ../70/03/x03.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Algorithms.dir/70/03/x03.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\03\x03.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\03\x03.cpp
 
 CMakeFiles/Algorithms.dir/70/03/x03.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/70/03/x03.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\03\x03.cpp > CMakeFiles\Algorithms.dir\70\03\x03.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\03\x03.cpp > CMakeFiles\Algorithms.dir\70\03\x03.cpp.i
 
 CMakeFiles/Algorithms.dir/70/03/x03.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/70/03/x03.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\03\x03.cpp -o CMakeFiles\Algorithms.dir\70\03\x03.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\03\x03.cpp -o CMakeFiles\Algorithms.dir\70\03\x03.cpp.s
 
 CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj: ../70/04/x04.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/Algorithms.dir/70/04/x04.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\04\x04.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\04\x04.cpp
 
 CMakeFiles/Algorithms.dir/70/04/x04.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/70/04/x04.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\04\x04.cpp > CMakeFiles\Algorithms.dir\70\04\x04.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\04\x04.cpp > CMakeFiles\Algorithms.dir\70\04\x04.cpp.i
 
 CMakeFiles/Algorithms.dir/70/04/x04.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/70/04/x04.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\04\x04.cpp -o CMakeFiles\Algorithms.dir\70\04\x04.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\04\x04.cpp -o CMakeFiles\Algorithms.dir\70\04\x04.cpp.s
 
 CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj: ../70/05/x05.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/Algorithms.dir/70/05/x05.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\05\x05.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\05\x05.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\70\05\x05.cpp.obj -c D:\Computer\Code\C++\Algorithms\70\05\x05.cpp
 
 CMakeFiles/Algorithms.dir/70/05/x05.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/70/05/x05.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\05\x05.cpp > CMakeFiles\Algorithms.dir\70\05\x05.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\70\05\x05.cpp > CMakeFiles\Algorithms.dir\70\05\x05.cpp.i
 
 CMakeFiles/Algorithms.dir/70/05/x05.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/70/05/x05.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\05\x05.cpp -o CMakeFiles\Algorithms.dir\70\05\x05.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\70\05\x05.cpp -o CMakeFiles\Algorithms.dir\70\05\x05.cpp.s
 
 CMakeFiles/Algorithms.dir/85/01/x01.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/85/01/x01.cpp.obj: ../85/01/x01.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Algorithms.dir/85/01/x01.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\01\x01.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\01\x01.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\01\x01.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\01\x01.cpp
 
 CMakeFiles/Algorithms.dir/85/01/x01.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/85/01/x01.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\01\x01.cpp > CMakeFiles\Algorithms.dir\85\01\x01.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\01\x01.cpp > CMakeFiles\Algorithms.dir\85\01\x01.cpp.i
 
 CMakeFiles/Algorithms.dir/85/01/x01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/85/01/x01.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\01\x01.cpp -o CMakeFiles\Algorithms.dir\85\01\x01.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\01\x01.cpp -o CMakeFiles\Algorithms.dir\85\01\x01.cpp.s
 
 CMakeFiles/Algorithms.dir/85/02/x02.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/85/02/x02.cpp.obj: ../85/02/x02.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Algorithms.dir/85/02/x02.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\02\x02.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\02\x02.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\02\x02.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\02\x02.cpp
 
 CMakeFiles/Algorithms.dir/85/02/x02.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/85/02/x02.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\02\x02.cpp > CMakeFiles\Algorithms.dir\85\02\x02.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\02\x02.cpp > CMakeFiles\Algorithms.dir\85\02\x02.cpp.i
 
 CMakeFiles/Algorithms.dir/85/02/x02.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/85/02/x02.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\02\x02.cpp -o CMakeFiles\Algorithms.dir\85\02\x02.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\02\x02.cpp -o CMakeFiles\Algorithms.dir\85\02\x02.cpp.s
 
 CMakeFiles/Algorithms.dir/85/04/x04.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/85/04/x04.cpp.obj: ../85/04/x04.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Algorithms.dir/85/04/x04.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\04\x04.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\04\x04.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\04\x04.cpp
 
 CMakeFiles/Algorithms.dir/85/04/x04.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/85/04/x04.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\04\x04.cpp > CMakeFiles\Algorithms.dir\85\04\x04.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\04\x04.cpp > CMakeFiles\Algorithms.dir\85\04\x04.cpp.i
 
 CMakeFiles/Algorithms.dir/85/04/x04.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/85/04/x04.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\04\x04.cpp -o CMakeFiles\Algorithms.dir\85\04\x04.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\04\x04.cpp -o CMakeFiles\Algorithms.dir\85\04\x04.cpp.s
 
 CMakeFiles/Algorithms.dir/85/Test85.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/85/Test85.cpp.obj: ../85/Test85.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Algorithms.dir/85/Test85.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\Test85.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\Test85.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\Test85.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\Test85.cpp
 
 CMakeFiles/Algorithms.dir/85/Test85.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/85/Test85.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\Test85.cpp > CMakeFiles\Algorithms.dir\85\Test85.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\Test85.cpp > CMakeFiles\Algorithms.dir\85\Test85.cpp.i
 
 CMakeFiles/Algorithms.dir/85/Test85.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/85/Test85.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\Test85.cpp -o CMakeFiles\Algorithms.dir\85\Test85.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\Test85.cpp -o CMakeFiles\Algorithms.dir\85\Test85.cpp.s
 
 CMakeFiles/Algorithms.dir/85/Queue.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/85/Queue.cpp.obj: ../85/Queue.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Algorithms.dir/85/Queue.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\Queue.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\Queue.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\Queue.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\Queue.cpp
 
 CMakeFiles/Algorithms.dir/85/Queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/85/Queue.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\Queue.cpp > CMakeFiles\Algorithms.dir\85\Queue.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\Queue.cpp > CMakeFiles\Algorithms.dir\85\Queue.cpp.i
 
 CMakeFiles/Algorithms.dir/85/Queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/85/Queue.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\Queue.cpp -o CMakeFiles\Algorithms.dir\85\Queue.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\Queue.cpp -o CMakeFiles\Algorithms.dir\85\Queue.cpp.s
 
 CMakeFiles/Algorithms.dir/85/03/x03.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/85/03/x03.cpp.obj: ../85/03/x03.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Algorithms.dir/85/03/x03.cpp.obj"
-	D:\Computer\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\03\x03.cpp
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\85\03\x03.cpp.obj -c D:\Computer\Code\C++\Algorithms\85\03\x03.cpp
 
 CMakeFiles/Algorithms.dir/85/03/x03.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/85/03/x03.cpp.i"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\03\x03.cpp > CMakeFiles\Algorithms.dir\85\03\x03.cpp.i
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\85\03\x03.cpp > CMakeFiles\Algorithms.dir\85\03\x03.cpp.i
 
 CMakeFiles/Algorithms.dir/85/03/x03.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/85/03/x03.cpp.s"
-	D:\Computer\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\03\x03.cpp -o CMakeFiles\Algorithms.dir\85\03\x03.cpp.s
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\03\x03.cpp -o CMakeFiles\Algorithms.dir\85\03\x03.cpp.s
 
 # Object files for target Algorithms
 Algorithms_OBJECTS = \
