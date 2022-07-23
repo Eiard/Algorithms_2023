@@ -520,33 +520,6 @@ Algorithms/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/18/14/x14.cpp.s
 .PHONY : 18/14/x14.cpp.s
 
-18/Sqlist.obj: 18/Sqlist.cpp.obj
-
-.PHONY : 18/Sqlist.obj
-
-# target to build an object file
-18/Sqlist.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/18/Sqlist.cpp.obj
-.PHONY : 18/Sqlist.cpp.obj
-
-18/Sqlist.i: 18/Sqlist.cpp.i
-
-.PHONY : 18/Sqlist.i
-
-# target to preprocess a source file
-18/Sqlist.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/18/Sqlist.cpp.i
-.PHONY : 18/Sqlist.cpp.i
-
-18/Sqlist.s: 18/Sqlist.cpp.s
-
-.PHONY : 18/Sqlist.s
-
-# target to generate assembly for a file
-18/Sqlist.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/18/Sqlist.cpp.s
-.PHONY : 18/Sqlist.cpp.s
-
 18/Test18.obj: 18/Test18.cpp.obj
 
 .PHONY : 18/Test18.obj
@@ -1705,9 +1678,6 @@ help:
 	@echo ... 18/14/x14.obj
 	@echo ... 18/14/x14.i
 	@echo ... 18/14/x14.s
-	@echo ... 18/Sqlist.obj
-	@echo ... 18/Sqlist.i
-	@echo ... 18/Sqlist.s
 	@echo ... 18/Test18.obj
 	@echo ... 18/Test18.i
 	@echo ... 18/Test18.s

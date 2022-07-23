@@ -16,7 +16,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/18/12/x12.cpp.obj"
   "CMakeFiles/Algorithms.dir/18/13/x13.cpp.obj"
   "CMakeFiles/Algorithms.dir/18/14/x14.cpp.obj"
-  "CMakeFiles/Algorithms.dir/18/Sqlist.cpp.obj"
   "CMakeFiles/Algorithms.dir/18/Test18.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/01/x01.cpp.obj"
   "CMakeFiles/Algorithms.dir/40/02/x02.cpp.obj"

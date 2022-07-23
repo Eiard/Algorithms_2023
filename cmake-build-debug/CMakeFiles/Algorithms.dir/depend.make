@@ -71,10 +71,6 @@ CMakeFiles/Algorithms.dir/18/14/x14.cpp.obj: ../18/14/x14.h
 CMakeFiles/Algorithms.dir/18/14/x14.cpp.obj: ../18/Sqlist.h
 CMakeFiles/Algorithms.dir/18/14/x14.cpp.obj: ../Def.h
 
-CMakeFiles/Algorithms.dir/18/Sqlist.cpp.obj: ../18/Sqlist.cpp
-CMakeFiles/Algorithms.dir/18/Sqlist.cpp.obj: ../18/Sqlist.h
-CMakeFiles/Algorithms.dir/18/Sqlist.cpp.obj: ../Def.h
-
 CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: ../18/01/x01.h
 CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: ../18/02/x02.h
 CMakeFiles/Algorithms.dir/18/Test18.cpp.obj: ../18/03/x03.h
