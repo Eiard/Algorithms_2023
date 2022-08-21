@@ -142,6 +142,114 @@ Algorithms/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/build
 .PHONY : Algorithms/fast
 
+134/05/x05.obj: 134/05/x05.cpp.obj
+
+.PHONY : 134/05/x05.obj
+
+# target to build an object file
+134/05/x05.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/05/x05.cpp.obj
+.PHONY : 134/05/x05.cpp.obj
+
+134/05/x05.i: 134/05/x05.cpp.i
+
+.PHONY : 134/05/x05.i
+
+# target to preprocess a source file
+134/05/x05.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/05/x05.cpp.i
+.PHONY : 134/05/x05.cpp.i
+
+134/05/x05.s: 134/05/x05.cpp.s
+
+.PHONY : 134/05/x05.s
+
+# target to generate assembly for a file
+134/05/x05.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/05/x05.cpp.s
+.PHONY : 134/05/x05.cpp.s
+
+134/BiTNode.obj: 134/BiTNode.cpp.obj
+
+.PHONY : 134/BiTNode.obj
+
+# target to build an object file
+134/BiTNode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/BiTNode.cpp.obj
+.PHONY : 134/BiTNode.cpp.obj
+
+134/BiTNode.i: 134/BiTNode.cpp.i
+
+.PHONY : 134/BiTNode.i
+
+# target to preprocess a source file
+134/BiTNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/BiTNode.cpp.i
+.PHONY : 134/BiTNode.cpp.i
+
+134/BiTNode.s: 134/BiTNode.cpp.s
+
+.PHONY : 134/BiTNode.s
+
+# target to generate assembly for a file
+134/BiTNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/BiTNode.cpp.s
+.PHONY : 134/BiTNode.cpp.s
+
+134/Test134.obj: 134/Test134.cpp.obj
+
+.PHONY : 134/Test134.obj
+
+# target to build an object file
+134/Test134.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/Test134.cpp.obj
+.PHONY : 134/Test134.cpp.obj
+
+134/Test134.i: 134/Test134.cpp.i
+
+.PHONY : 134/Test134.i
+
+# target to preprocess a source file
+134/Test134.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/Test134.cpp.i
+.PHONY : 134/Test134.cpp.i
+
+134/Test134.s: 134/Test134.cpp.s
+
+.PHONY : 134/Test134.s
+
+# target to generate assembly for a file
+134/Test134.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/Test134.cpp.s
+.PHONY : 134/Test134.cpp.s
+
+134/TreeNode.obj: 134/TreeNode.cpp.obj
+
+.PHONY : 134/TreeNode.obj
+
+# target to build an object file
+134/TreeNode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/TreeNode.cpp.obj
+.PHONY : 134/TreeNode.cpp.obj
+
+134/TreeNode.i: 134/TreeNode.cpp.i
+
+.PHONY : 134/TreeNode.i
+
+# target to preprocess a source file
+134/TreeNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/TreeNode.cpp.i
+.PHONY : 134/TreeNode.cpp.i
+
+134/TreeNode.s: 134/TreeNode.cpp.s
+
+.PHONY : 134/TreeNode.s
+
+# target to generate assembly for a file
+134/TreeNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorithms.dir\build.make CMakeFiles/Algorithms.dir/134/TreeNode.cpp.s
+.PHONY : 134/TreeNode.cpp.s
+
 18/01/x01.obj: 18/01/x01.cpp.obj
 
 .PHONY : 18/01/x01.obj
@@ -1636,6 +1744,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Algorithms
+	@echo ... 134/05/x05.obj
+	@echo ... 134/05/x05.i
+	@echo ... 134/05/x05.s
+	@echo ... 134/BiTNode.obj
+	@echo ... 134/BiTNode.i
+	@echo ... 134/BiTNode.s
+	@echo ... 134/Test134.obj
+	@echo ... 134/Test134.i
+	@echo ... 134/Test134.s
+	@echo ... 134/TreeNode.obj
+	@echo ... 134/TreeNode.i
+	@echo ... 134/TreeNode.s
 	@echo ... 18/01/x01.obj
 	@echo ... 18/01/x01.i
 	@echo ... 18/01/x01.s

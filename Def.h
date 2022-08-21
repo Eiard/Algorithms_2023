@@ -19,6 +19,7 @@ typedef int ElemType;
 
 #define _for(i, Begin, End, Opera) for(i = Begin;i < End;i Opera)
 
+typedef int uint8;
 
 void Swap(ElemType &a, ElemType &b);
 

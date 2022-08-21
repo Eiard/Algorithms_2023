@@ -791,6 +791,58 @@ CMakeFiles/Algorithms.dir/85/03/x03.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/85/03/x03.cpp.s"
 	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\85\03\x03.cpp -o CMakeFiles\Algorithms.dir\85\03\x03.cpp.s
 
+CMakeFiles/Algorithms.dir/134/05/x05.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/134/05/x05.cpp.obj: ../134/05/x05.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Algorithms.dir/134/05/x05.cpp.obj"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\134\05\x05.cpp.obj -c D:\Computer\Code\C++\Algorithms\134\05\x05.cpp
+
+CMakeFiles/Algorithms.dir/134/05/x05.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/134/05/x05.cpp.i"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\134\05\x05.cpp > CMakeFiles\Algorithms.dir\134\05\x05.cpp.i
+
+CMakeFiles/Algorithms.dir/134/05/x05.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/134/05/x05.cpp.s"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\134\05\x05.cpp -o CMakeFiles\Algorithms.dir\134\05\x05.cpp.s
+
+CMakeFiles/Algorithms.dir/134/Test134.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/134/Test134.cpp.obj: ../134/Test134.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Algorithms.dir/134/Test134.cpp.obj"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\134\Test134.cpp.obj -c D:\Computer\Code\C++\Algorithms\134\Test134.cpp
+
+CMakeFiles/Algorithms.dir/134/Test134.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/134/Test134.cpp.i"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\134\Test134.cpp > CMakeFiles\Algorithms.dir\134\Test134.cpp.i
+
+CMakeFiles/Algorithms.dir/134/Test134.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/134/Test134.cpp.s"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\134\Test134.cpp -o CMakeFiles\Algorithms.dir\134\Test134.cpp.s
+
+CMakeFiles/Algorithms.dir/134/BiTNode.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/134/BiTNode.cpp.obj: ../134/BiTNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Algorithms.dir/134/BiTNode.cpp.obj"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\134\BiTNode.cpp.obj -c D:\Computer\Code\C++\Algorithms\134\BiTNode.cpp
+
+CMakeFiles/Algorithms.dir/134/BiTNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/134/BiTNode.cpp.i"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\134\BiTNode.cpp > CMakeFiles\Algorithms.dir\134\BiTNode.cpp.i
+
+CMakeFiles/Algorithms.dir/134/BiTNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/134/BiTNode.cpp.s"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\134\BiTNode.cpp -o CMakeFiles\Algorithms.dir\134\BiTNode.cpp.s
+
+CMakeFiles/Algorithms.dir/134/TreeNode.cpp.obj: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/134/TreeNode.cpp.obj: ../134/TreeNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Algorithms.dir/134/TreeNode.cpp.obj"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Algorithms.dir\134\TreeNode.cpp.obj -c D:\Computer\Code\C++\Algorithms\134\TreeNode.cpp
+
+CMakeFiles/Algorithms.dir/134/TreeNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms.dir/134/TreeNode.cpp.i"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Computer\Code\C++\Algorithms\134\TreeNode.cpp > CMakeFiles\Algorithms.dir\134\TreeNode.cpp.i
+
+CMakeFiles/Algorithms.dir/134/TreeNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms.dir/134/TreeNode.cpp.s"
+	D:\Computer\Environment\cpp\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Computer\Code\C++\Algorithms\134\TreeNode.cpp -o CMakeFiles\Algorithms.dir\134\TreeNode.cpp.s
+
 # Object files for target Algorithms
 Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/main.cpp.obj" \
@@ -847,7 +899,11 @@ Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/85/04/x04.cpp.obj" \
 "CMakeFiles/Algorithms.dir/85/Test85.cpp.obj" \
 "CMakeFiles/Algorithms.dir/85/Queue.cpp.obj" \
-"CMakeFiles/Algorithms.dir/85/03/x03.cpp.obj"
+"CMakeFiles/Algorithms.dir/85/03/x03.cpp.obj" \
+"CMakeFiles/Algorithms.dir/134/05/x05.cpp.obj" \
+"CMakeFiles/Algorithms.dir/134/Test134.cpp.obj" \
+"CMakeFiles/Algorithms.dir/134/BiTNode.cpp.obj" \
+"CMakeFiles/Algorithms.dir/134/TreeNode.cpp.obj"
 
 # External object files for target Algorithms
 Algorithms_EXTERNAL_OBJECTS =
@@ -907,11 +963,15 @@ Algorithms.exe: CMakeFiles/Algorithms.dir/85/04/x04.cpp.obj
 Algorithms.exe: CMakeFiles/Algorithms.dir/85/Test85.cpp.obj
 Algorithms.exe: CMakeFiles/Algorithms.dir/85/Queue.cpp.obj
 Algorithms.exe: CMakeFiles/Algorithms.dir/85/03/x03.cpp.obj
+Algorithms.exe: CMakeFiles/Algorithms.dir/134/05/x05.cpp.obj
+Algorithms.exe: CMakeFiles/Algorithms.dir/134/Test134.cpp.obj
+Algorithms.exe: CMakeFiles/Algorithms.dir/134/BiTNode.cpp.obj
+Algorithms.exe: CMakeFiles/Algorithms.dir/134/TreeNode.cpp.obj
 Algorithms.exe: CMakeFiles/Algorithms.dir/build.make
 Algorithms.exe: CMakeFiles/Algorithms.dir/linklibs.rsp
 Algorithms.exe: CMakeFiles/Algorithms.dir/objects1.rsp
 Algorithms.exe: CMakeFiles/Algorithms.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking CXX executable Algorithms.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Computer\Code\C++\Algorithms\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Linking CXX executable Algorithms.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Algorithms.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
